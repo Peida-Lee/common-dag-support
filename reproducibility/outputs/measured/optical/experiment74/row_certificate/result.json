@@ -1,0 +1,178 @@
+{
+  "status": "completed",
+  "rows": 750,
+  "columns": 10,
+  "rank": 10,
+  "denominator_df": 740,
+  "full_RSS": 234.8006714577301,
+  "coefficients": [
+    0.19167672697933508,
+    0.07825647209311079,
+    -0.11391101822746265,
+    0.09249731581140389,
+    -0.24808092658714428,
+    0.33392465102014485,
+    -0.01205854706657776,
+    -0.06300540741292661,
+    0.010800750981028255,
+    0.4180737949386618
+  ],
+  "singular_values": [
+    27.396319181021937,
+    9.689016634502229,
+    6.575851001775469,
+    5.252898296385358,
+    5.239335328817885,
+    4.431028760298622,
+    3.639147326961468,
+    3.1236496022229483,
+    2.200482143949875,
+    1.7503949515126214
+  ],
+  "groups": [
+    {
+      "pixel": 0,
+      "feature_columns": [
+        0
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.6189468593293097,
+      "statistic": 0.24755911172905565,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 234.87922151943206
+    },
+    {
+      "pixel": 1,
+      "feature_columns": [
+        1
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.4220941770759832,
+      "statistic": 0.6451938653382258,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 235.0053903128677
+    },
+    {
+      "pixel": 2,
+      "feature_columns": [
+        2
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.42234113314437693,
+      "statistic": 0.6445072056553377,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 235.0051724369831
+    },
+    {
+      "pixel": 3,
+      "feature_columns": [
+        3
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.13842210014401857,
+      "statistic": 2.200160837456262,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 235.49877854144594
+    },
+    {
+      "pixel": 4,
+      "feature_columns": [
+        4
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.06367067741540251,
+      "statistic": 3.4494302269384587,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 235.8951694758811
+    },
+    {
+      "pixel": 5,
+      "feature_columns": [
+        5
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.9353375306366949,
+      "statistic": 0.006586766816115106,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 234.80276142701544
+    },
+    {
+      "pixel": 6,
+      "feature_columns": [
+        6
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.5769193475328054,
+      "statistic": 0.3115174151894988,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 234.89951537429397
+    },
+    {
+      "pixel": 7,
+      "feature_columns": [
+        7
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.9409506349112464,
+      "statistic": 0.005490848312318169,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 234.80241369404172
+    },
+    {
+      "pixel": 8,
+      "feature_columns": [
+        8
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.18876996687858713,
+      "statistic": 1.730378653176409,
+      "rejected": false,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 235.34971749778677
+    }
+  ],
+  "diagnostics": {
+    "residual_skew": -0.044969807184540606,
+    "residual_excess_kurtosis": 36.802847610597844,
+    "residual_lag1": -0.12970299178949662,
+    "transformed_normality_original_P": 5.696599474277744e-55,
+    "diagnostic_role": "working_model_checks_on_projected_regression_residuals"
+  },
+  "detected_pixels": [],
+  "unresolved_pixels": [],
+  "alpha": 0.05,
+  "family": "nine_pixel_groups_per_acquisition_and_basis",
+  "truth_read": false,
+  "method": "row_certificate",
+  "panel": "optical",
+  "experiment": 74,
+  "started_epoch": 1794245281.3535979,
+  "finished_epoch": 1794245281.359361,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

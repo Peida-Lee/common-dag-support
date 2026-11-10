@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 144,
+  "identifier": "validate_osr_downwind__current_out",
+  "source": "validate_osr_downwind.csv",
+  "target": "osr_downwind",
+  "response": "current_out",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      99,
+      101
+    ],
+    "KS_height_integer": 930,
+    "KS_statistic_exact": "310/3333",
+    "raw_P_exact": "2057733263460508979555927941490564781087680343098881060534/2801624834656660927147406468981564476315117254808580966625",
+    "raw_P_decimal_upper": "0.734478520466386483114896330870871106949902244",
+    "raw_component_P": [
+      0.7344785204663865
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "2057733263460508979555927941490564781087680343098881060534/2801624834656660927147406468981564476315117254808580966625",
+  "rejected": false
+}

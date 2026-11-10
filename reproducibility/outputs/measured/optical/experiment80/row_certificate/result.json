@@ -1,0 +1,188 @@
+{
+  "status": "completed",
+  "rows": 750,
+  "columns": 10,
+  "rank": 10,
+  "denominator_df": 740,
+  "full_RSS": 2352.4425163538585,
+  "coefficients": [
+    -0.2453762268475726,
+    4.295358716938253,
+    4.489153191795948,
+    4.129269195543371,
+    6.024428240670629,
+    7.660514278524132,
+    3.292415665119383,
+    1.432905708756168,
+    2.804409419636218,
+    7.223830962014559
+  ],
+  "singular_values": [
+    27.832715195587575,
+    11.175809486352144,
+    10.331513762076735,
+    6.43557915531596,
+    5.794368090744317,
+    4.779567037033573,
+    3.9343524267712318,
+    3.265168792432135,
+    2.6913776388340396,
+    1.7152531375763964
+  ],
+  "groups": [
+    {
+      "pixel": 0,
+      "feature_columns": [
+        0
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 4.443717522317932e-21,
+      "statistic": 94.37638964682272,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2652.4628292527286
+    },
+    {
+      "pixel": 1,
+      "feature_columns": [
+        1
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 2.5401429337726556e-31,
+      "statistic": 148.83184587450225,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2825.5754380060257
+    },
+    {
+      "pixel": 2,
+      "feature_columns": [
+        2
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 5.508472722420748e-44,
+      "statistic": 221.3064144670467,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 3055.97037923779
+    },
+    {
+      "pixel": 3,
+      "feature_columns": [
+        3
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 1.1322469092714677e-30,
+      "statistic": 145.27253891150775,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2814.260485264806
+    },
+    {
+      "pixel": 4,
+      "feature_columns": [
+        4
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 1.0959307599558687e-49,
+      "statistic": 255.8796636230618,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 3165.8779214582023
+    },
+    {
+      "pixel": 5,
+      "feature_columns": [
+        5
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 6.530858493148558e-23,
+      "statistic": 103.85339909430586,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2682.590018377251
+    },
+    {
+      "pixel": 6,
+      "feature_columns": [
+        6
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 0.00010864626728278044,
+      "statistic": 15.143149932307377,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2400.582232208292
+    },
+    {
+      "pixel": 7,
+      "feature_columns": [
+        7
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 4.02905119299936e-09,
+      "statistic": 35.45617154922739,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2465.1568480018836
+    },
+    {
+      "pixel": 8,
+      "feature_columns": [
+        8
+      ],
+      "numerator_df": 1,
+      "denominator_df": 740,
+      "original_P": 3.1819483737311773e-12,
+      "statistic": 50.23763984430961,
+      "rejected": true,
+      "unresolved": false,
+      "threshold": 0.005555555555555556,
+      "reduced_RSS": 2512.1467864768674
+    }
+  ],
+  "diagnostics": {
+    "residual_skew": 0.35009516020593534,
+    "residual_excess_kurtosis": 0.6755060574823077,
+    "residual_lag1": -0.07339246167376155,
+    "transformed_normality_original_P": 5.990816086941151e-06,
+    "diagnostic_role": "working_model_checks_on_projected_regression_residuals"
+  },
+  "detected_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "unresolved_pixels": [],
+  "alpha": 0.05,
+  "family": "nine_pixel_groups_per_acquisition_and_basis",
+  "truth_read": false,
+  "method": "row_certificate",
+  "panel": "optical",
+  "experiment": 80,
+  "started_epoch": 1794245281.4203978,
+  "finished_epoch": 1794245281.426182,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

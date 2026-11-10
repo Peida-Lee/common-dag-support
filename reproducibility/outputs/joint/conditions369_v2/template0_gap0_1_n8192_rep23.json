@@ -1,0 +1,14 @@
+{
+  "status": "completed",
+  "source": "template0_gap0_1_n8192_rep23",
+  "rows": 8192,
+  "index": 0,
+  "gap": "0",
+  "original_report": false,
+  "original_reason": "ancestry_not_certified",
+  "solver_version": "5.3.3.0",
+  "solver_timeout_ms": 2000,
+  "reported": false,
+  "decision": "unqualified",
+  "certification": "not_applicable"
+}

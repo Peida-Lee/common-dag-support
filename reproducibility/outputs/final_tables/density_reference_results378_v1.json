@@ -1,0 +1,206 @@
+{
+  "status": "completed",
+  "prediction_rule": "report every allowed relation slot",
+  "uses_measurement_values": false,
+  "panels": {
+    "light": {
+      "TP": 32,
+      "FP": 58,
+      "FN": 0,
+      "SHD": 58,
+      "precision": 0.35555555555555557,
+      "recall": 1.0,
+      "F1": 0.5245901639344263,
+      "F1_exact": "32/61"
+    },
+    "wind": {
+      "TP": 42,
+      "FP": 189,
+      "FN": 0,
+      "SHD": 189,
+      "precision": 0.18181818181818182,
+      "recall": 1.0,
+      "F1": 0.3076923076923077,
+      "F1_exact": "4/13"
+    },
+    "camera": {
+      "TP": 32,
+      "FP": 18,
+      "FN": 0,
+      "SHD": 18,
+      "precision": 0.64,
+      "recall": 1.0,
+      "F1": 0.7804878048780488,
+      "F1_exact": "32/41"
+    },
+    "optical": {
+      "TP": 108,
+      "FP": 9,
+      "FN": 0,
+      "SHD": 9,
+      "precision": 0.9230769230769231,
+      "recall": 1.0,
+      "F1": 0.96,
+      "F1_exact": "24/25",
+      "macro_F1": 0.9230769230769231,
+      "perfect_cases": 12,
+      "cases": [
+        {
+          "experiment": 69,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 70,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 71,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 72,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 73,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 74,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 75,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 77,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 78,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 79,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 80,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 81,
+          "TP": 9,
+          "FP": 0,
+          "FN": 0,
+          "SHD": 0,
+          "precision": 1.0,
+          "recall": 1.0,
+          "F1": 1.0,
+          "F1_exact": "1"
+        },
+        {
+          "experiment": 82,
+          "TP": 0,
+          "FP": 9,
+          "FN": 0,
+          "SHD": 9,
+          "precision": 0.0,
+          "recall": 0.0,
+          "F1": 0.0,
+          "F1_exact": "0"
+        }
+      ]
+    }
+  },
+  "optical_row_estimator": {
+    "TP": 94,
+    "FP": 5,
+    "FN": 14,
+    "SHD": 19,
+    "F1": 0.9082125603864735,
+    "F1_exact": "188/207",
+    "macro_F1": 0.8367632367632368,
+    "perfect_cases": 9,
+    "precision": 0.9494949494949495,
+    "recall": 0.8703703703703703
+  }
+}

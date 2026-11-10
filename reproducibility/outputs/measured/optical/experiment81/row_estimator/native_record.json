@@ -1,0 +1,138 @@
+{
+  "status": "completed",
+  "experiment": 81,
+  "scores": {
+    "PC": {
+      "TP": 4,
+      "FP": 0,
+      "FN": 5,
+      "SHD": 5,
+      "F1": 0.6153846153846154,
+      "F1_exact": "8/13"
+    },
+    "GES": {
+      "TP": 9,
+      "FP": 0,
+      "FN": 0,
+      "SHD": 0,
+      "F1": 1.0,
+      "F1_exact": "1"
+    },
+    "GIES": {
+      "TP": 7,
+      "FP": 0,
+      "FN": 2,
+      "SHD": 2,
+      "F1": 0.875,
+      "F1_exact": "7/8"
+    },
+    "Gaussian_BIC_root_domain": {
+      "TP": 7,
+      "FP": 0,
+      "FN": 2,
+      "SHD": 2,
+      "F1": 0.875,
+      "F1_exact": "7/8"
+    },
+    "DirectLiNGAM": {
+      "TP": 9,
+      "FP": 0,
+      "FN": 0,
+      "SHD": 0,
+      "F1": 1.0,
+      "F1_exact": "1"
+    },
+    "NOTEARS": {
+      "TP": 2,
+      "FP": 0,
+      "FN": 7,
+      "SHD": 7,
+      "F1": 0.36363636363636365,
+      "F1_exact": "4/11"
+    },
+    "DAGMA": {
+      "TP": 4,
+      "FP": 0,
+      "FN": 5,
+      "SHD": 5,
+      "F1": 0.6153846153846154,
+      "F1_exact": "8/13"
+    },
+    "GOLEM": {
+      "TP": 5,
+      "FP": 0,
+      "FN": 4,
+      "SHD": 4,
+      "F1": 0.7142857142857143,
+      "F1_exact": "5/7"
+    },
+    "MuDo_CoM": {
+      "TP": 9,
+      "FP": 0,
+      "FN": 0,
+      "SHD": 0,
+      "F1": 1.0,
+      "F1_exact": "1"
+    },
+    "WVM_author": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "row_estimator": {
+      "TP": 9,
+      "FP": 0,
+      "FN": 0,
+      "SHD": 0,
+      "F1": 1.0,
+      "F1_exact": "1"
+    }
+  },
+  "reference_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "predicted_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "inherited_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "certified_pixels": [
+    0,
+    1,
+    2,
+    4,
+    5,
+    7,
+    8
+  ],
+  "added_true": 0,
+  "added_false": 0
+}

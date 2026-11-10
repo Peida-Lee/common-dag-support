@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 96,
+  "identifier": "validate_load_out_mic__pressure_intake",
+  "source": "validate_load_out_mic.csv",
+  "target": "load_out",
+  "response": "pressure_intake",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      95,
+      105
+    ],
+    "KS_height_integer": 1460,
+    "KS_statistic_exact": "292/1995",
+    "raw_P_exact": "10455789800495486431181547348047451167606715455407836677/50141982938941425195266590320392275519517584220402226675",
+    "raw_P_decimal_upper": "0.208523659968287331634092192266133482210243309",
+    "raw_component_P": [
+      0.20852365996828734
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "10455789800495486431181547348047451167606715455407836677/50141982938941425195266590320392275519517584220402226675",
+  "rejected": false
+}

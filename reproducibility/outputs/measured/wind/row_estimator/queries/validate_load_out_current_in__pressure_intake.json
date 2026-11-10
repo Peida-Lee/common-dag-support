@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 85,
+  "identifier": "validate_load_out_current_in__pressure_intake",
+  "source": "validate_load_out_current_in.csv",
+  "target": "load_out",
+  "response": "pressure_intake",
+  "n": 100,
+  "selected": {
+    "n": 100,
+    "counts": [
+      51,
+      49
+    ],
+    "KS_height_integer": 579,
+    "KS_statistic_exact": "193/833",
+    "raw_P_exact": "682408915398879000864458006/6182067680488002042574295175",
+    "raw_P_decimal_upper": "0.110385222334707727899721558327169693026863807",
+    "raw_component_P": [
+      0.11038522233470772
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "682408915398879000864458006/6182067680488002042574295175",
+  "rejected": false
+}

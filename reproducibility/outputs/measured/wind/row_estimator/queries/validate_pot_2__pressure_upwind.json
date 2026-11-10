@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 227,
+  "identifier": "validate_pot_2__pressure_upwind",
+  "source": "validate_pot_2.csv",
+  "target": "pot_2",
+  "response": "pressure_upwind",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      100,
+      100
+    ],
+    "KS_height_integer": 1300,
+    "KS_statistic_exact": "13/100",
+    "raw_P_exact": "651819577750300542975118138076901573146481135583/1770345466155727313431268988810830436092244278283",
+    "raw_P_decimal_upper": "0.368187786062860822562946027223805062968504501",
+    "raw_component_P": [
+      0.36818778606286084
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "651819577750300542975118138076901573146481135583/1770345466155727313431268988810830436092244278283",
+  "rejected": false
+}

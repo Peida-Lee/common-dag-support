@@ -1,0 +1,62 @@
+{
+  "status": "passed",
+  "light_legacy_equivalence": [
+    {
+      "target": "red",
+      "rows": 121,
+      "bitwise_equal": true
+    },
+    {
+      "target": "pol_1",
+      "rows": 121,
+      "bitwise_equal": true
+    }
+  ],
+  "gram_equivalence": {
+    "status": "passed",
+    "checks": [
+      {
+        "dtype": "torch.float64",
+        "equal_variances": true,
+        "relative_objective_error": 0.0,
+        "scaled_gradient_error": 9.71445146547012e-17,
+        "Adam10_parameter_error": 6.960577947356938e-17
+      },
+      {
+        "dtype": "torch.float64",
+        "equal_variances": false,
+        "relative_objective_error": 0.0,
+        "scaled_gradient_error": 1.1102230246251565e-16,
+        "Adam10_parameter_error": 1.1709383462843448e-17
+      },
+      {
+        "dtype": "torch.float32",
+        "equal_variances": true,
+        "relative_objective_error": 0.0,
+        "scaled_gradient_error": 7.450580596923828e-08,
+        "Adam10_parameter_error": 2.87545844912529e-08
+      },
+      {
+        "dtype": "torch.float32",
+        "equal_variances": false,
+        "relative_objective_error": 0.0,
+        "scaled_gradient_error": 7.450580596923828e-08,
+        "Adam10_parameter_error": 2.0721927285194397e-08
+      }
+    ],
+    "truth_read": false,
+    "source_rows": 128,
+    "compact_rows": 4,
+    "source_n_unchanged": true
+  },
+  "versions": {
+    "numpy": "1.26.4",
+    "pandas": "1.5.3",
+    "scipy": "1.13.1",
+    "numba": "0.59.1",
+    "torch": "2.5.1+cu121"
+  },
+  "cuda_device": "NVIDIA L40",
+  "beijing": "2026-11-10T01:25:17.207076+08:00",
+  "measured_model_fits": 0
+}

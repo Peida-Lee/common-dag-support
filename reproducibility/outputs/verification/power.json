@@ -1,0 +1,11 @@
+{
+  "status": "passed",
+  "source_conditions": 2048,
+  "covariance_entries": 131072,
+  "raw_P_intervals": 6144,
+  "Fieller_sets_proved": 548,
+  "false_report": 0,
+  "excluded_profile_parts": 2192,
+  "rational_subregions": 38686,
+  "Sturm_evaluations": 75180
+}

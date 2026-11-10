@@ -1,0 +1,410 @@
+{
+  "status": "completed",
+  "method": "Gaussian_BIC_root_domain",
+  "case": 0,
+  "native_edges": [
+    [
+      0,
+      5
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      2,
+      10
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      0,
+      11
+    ],
+    [
+      1,
+      11
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      0,
+      12
+    ],
+    [
+      1,
+      12
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      2,
+      13
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      4,
+      13
+    ],
+    [
+      0,
+      14
+    ],
+    [
+      1,
+      14
+    ],
+    [
+      2,
+      14
+    ],
+    [
+      3,
+      14
+    ],
+    [
+      4,
+      14
+    ]
+  ],
+  "native_undirected_edges": [],
+  "qualified_edges": [
+    [
+      0,
+      5
+    ],
+    [
+      0,
+      7
+    ],
+    [
+      0,
+      8
+    ],
+    [
+      0,
+      9
+    ],
+    [
+      0,
+      10
+    ],
+    [
+      0,
+      11
+    ],
+    [
+      0,
+      12
+    ],
+    [
+      0,
+      13
+    ],
+    [
+      0,
+      14
+    ],
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      8
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      1,
+      11
+    ],
+    [
+      1,
+      12
+    ],
+    [
+      1,
+      13
+    ],
+    [
+      1,
+      14
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      2,
+      10
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      2,
+      13
+    ],
+    [
+      2,
+      14
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      3,
+      10
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      3,
+      14
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      4,
+      13
+    ],
+    [
+      4,
+      14
+    ]
+  ],
+  "metadata": {
+    "algorithm": "forward_backward_single_edge_local_search",
+    "parent_domain": "all_recorded_randomized_roots",
+    "maximum_indegree": null,
+    "local_fits": [
+      {
+        "output": 5,
+        "parents": [
+          0,
+          1,
+          2
+        ],
+        "score": -12612.25897493598,
+        "evaluated_parent_sets": 16
+      },
+      {
+        "output": 6,
+        "parents": [
+          3,
+          4
+        ],
+        "score": -83216.31413107431,
+        "evaluated_parent_sets": 13
+      },
+      {
+        "output": 7,
+        "parents": [
+          0,
+          4
+        ],
+        "score": -108264.02158481731,
+        "evaluated_parent_sets": 13
+      },
+      {
+        "output": 8,
+        "parents": [
+          0,
+          1,
+          2
+        ],
+        "score": -29393.109479600484,
+        "evaluated_parent_sets": 16
+      },
+      {
+        "output": 9,
+        "parents": [
+          0,
+          1,
+          2
+        ],
+        "score": -29277.53442713589,
+        "evaluated_parent_sets": 16
+      },
+      {
+        "output": 10,
+        "parents": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "score": -25487.770254313924,
+        "evaluated_parent_sets": 22
+      },
+      {
+        "output": 11,
+        "parents": [
+          0,
+          1,
+          2
+        ],
+        "score": -28558.02260634626,
+        "evaluated_parent_sets": 16
+      },
+      {
+        "output": 12,
+        "parents": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "score": -28513.598780371925,
+        "evaluated_parent_sets": 19
+      },
+      {
+        "output": 13,
+        "parents": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "score": -25503.407172874915,
+        "evaluated_parent_sets": 22
+      },
+      {
+        "output": 14,
+        "parents": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "score": -30130.291529621336,
+        "evaluated_parent_sets": 22
+      }
+    ]
+  },
+  "truth_read": false,
+  "development_dataset": "lt_camera_walks_AR346_v1",
+  "seconds_round323": 0.01162382960319519,
+  "panel": "camera",
+  "experiment": null,
+  "started_epoch": 1794245277.6309521,
+  "finished_epoch": 1794245277.6453297,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

@@ -1,0 +1,23 @@
+{
+  "csv": "${PACKAGE}/outputs/measured/camera/WVM_author/shared_standardized_rows.csv",
+  "counts": [
+    4096,
+    4096,
+    4096
+  ],
+  "predictor_columns": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "response_column": 9,
+  "alphas": [
+    0.001,
+    0.05
+  ],
+  "B": 200,
+  "seed": 3469008,
+  "input_role": "shared_grouped_rows"
+}

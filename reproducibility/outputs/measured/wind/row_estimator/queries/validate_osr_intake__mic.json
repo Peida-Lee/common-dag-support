@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 169,
+  "identifier": "validate_osr_intake__mic",
+  "source": "validate_osr_intake.csv",
+  "target": "osr_intake",
+  "response": "mic",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      108,
+      92
+    ],
+    "KS_height_integer": 808,
+    "KS_statistic_exact": "101/1242",
+    "raw_P_exact": "99284355974114368894088286996984743327504152247096712409/115061978627850725090211672357892328153846591849877569125",
+    "raw_P_decimal_upper": "0.862877182872315161867859046220973620041555633",
+    "raw_component_P": [
+      0.8628771828723152
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "99284355974114368894088286996984743327504152247096712409/115061978627850725090211672357892328153846591849877569125",
+  "rejected": false
+}

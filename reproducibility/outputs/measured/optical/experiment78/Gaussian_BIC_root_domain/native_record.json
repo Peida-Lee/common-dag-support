@@ -1,0 +1,124 @@
+{
+  "status": "completed",
+  "method": "Gaussian_BIC_root_domain",
+  "case": 358156,
+  "native_edges": [
+    [
+      0,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "native_undirected_edges": [],
+  "qualified_edges": [
+    [
+      0,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "metadata": {
+    "algorithm": "forward_backward_single_edge_local_search",
+    "parent_domain": "all_recorded_randomized_roots",
+    "maximum_indegree": null,
+    "local_fits": [
+      {
+        "output": 9,
+        "parents": [
+          0,
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8
+        ],
+        "score": -1491.9041057665943,
+        "evaluated_parent_sets": 74
+      }
+    ]
+  },
+  "truth_read": false,
+  "development_dataset": "Janzing_exp78_linear",
+  "seconds_round323": 0.005697391927242279,
+  "detected_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "panel": "optical",
+  "experiment": 78,
+  "started_epoch": 1794245292.157087,
+  "finished_epoch": 1794245292.164989,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

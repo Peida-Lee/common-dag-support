@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 95,
+  "identifier": "validate_load_out_mic__pressure_upwind",
+  "source": "validate_load_out_mic.csv",
+  "target": "load_out",
+  "response": "pressure_upwind",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      95,
+      105
+    ],
+    "KS_height_integer": 9005,
+    "KS_statistic_exact": "1801/1995",
+    "raw_P_exact": "20331270461/315079716062076702257934391802170410726472792352061120",
+    "raw_P_decimal_upper": "6.45273860060047555439031832676767915951086256E-44",
+    "raw_component_P": [
+      6.452738600600476e-44
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": true,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "20331270461/315079716062076702257934391802170410726472792352061120",
+  "rejected": true
+}

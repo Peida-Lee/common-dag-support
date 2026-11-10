@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 92,
+  "identifier": "validate_load_out_mic__mic",
+  "source": "validate_load_out_mic.csv",
+  "target": "load_out",
+  "response": "mic",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      95,
+      105
+    ],
+    "KS_height_integer": 3885,
+    "KS_statistic_exact": "37/95",
+    "raw_P_exact": "43664131722660241998973466923019593295713878245399/159008810761327762781385944079081810656488195005239493600",
+    "raw_P_decimal_upper": "2.74601963964123391142872161575761428755878577E-7",
+    "raw_component_P": [
+      2.746019639641234e-07
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": true,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "43664131722660241998973466923019593295713878245399/159008810761327762781385944079081810656488195005239493600",
+  "rejected": true
+}

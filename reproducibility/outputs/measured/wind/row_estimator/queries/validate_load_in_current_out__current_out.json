@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 45,
+  "identifier": "validate_load_in_current_out__current_out",
+  "source": "validate_load_in_current_out.csv",
+  "target": "load_in",
+  "response": "current_out",
+  "n": 100,
+  "selected": {
+    "n": 100,
+    "counts": [
+      39,
+      61
+    ],
+    "KS_height_integer": 2201,
+    "KS_statistic_exact": "2201/2379",
+    "raw_P_exact": "79601/450696201501731524631717040",
+    "raw_P_decimal_upper": "1.76617863063339311990417564669994365440706428E-22",
+    "raw_component_P": [
+      1.7661786306333932e-22
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": true,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "79601/450696201501731524631717040",
+  "rejected": true
+}

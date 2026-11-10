@@ -1,0 +1,303 @@
+{
+  "status": "passed",
+  "derivation": "deterministic preprocessing from the frozen scientific code and inputs",
+  "checked_configurations": 43,
+  "checked_standardized_input_cases": 16,
+  "files": [
+    {
+      "path": "outputs/measured/camera/WVM_author/response10/config.json",
+      "bytes": 336,
+      "sha256": "e808be870c696c6737612da72159391ff661208d1f02c5ee45b0ac1320762e1f"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response11/config.json",
+      "bytes": 336,
+      "sha256": "20d77040c063802b0168cb5309a0b71c0f2cc2f97274fc3f67e25b2aa37d7295"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response12/config.json",
+      "bytes": 336,
+      "sha256": "aedce1025fee758979800fe28de2905a6bc8a9f4e8d3d123b1fe5d78f866f5e6"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response13/config.json",
+      "bytes": 336,
+      "sha256": "e575c2e04a305ce9859ac156b91a4709f28d69c1df48f9b0e8d323ceabd2945e"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response14/config.json",
+      "bytes": 336,
+      "sha256": "bca0ce12279ba91acee31aabf434d28c014c1501341b24d2bd4a8b5687c4bf8a"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response5/config.json",
+      "bytes": 335,
+      "sha256": "4b58b40da31c0e3c0342c20881f2d61c95d6361733482c7840eeccb0bc9d3b2e"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response6/config.json",
+      "bytes": 335,
+      "sha256": "1d7f169059fcb011651785fc589a6381bfde07881973ff3550bfc2f0d8b9c6b1"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response7/config.json",
+      "bytes": 335,
+      "sha256": "66a6759e74039ae0e67096592669aaa28dc3e1b818eee1956b38f1cfd4c16278"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response8/config.json",
+      "bytes": 335,
+      "sha256": "43bcb0b8320485cf2b893de449785a23b70aea042369a494cce9693d61e4662a"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/response9/config.json",
+      "bytes": 336,
+      "sha256": "7a8f238f0e1e3c08ac15cc60dbca60f67e4f8a9c0e19c0e86c38cacea61964b7"
+    },
+    {
+      "path": "outputs/measured/camera/WVM_author/shared_standardized_rows.csv",
+      "bytes": 3700419,
+      "sha256": "a211600c85af3ef5c63e59d2e84397aa80f3bcb513a7896464de149bef7367aa"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response10/config.json",
+      "bytes": 468,
+      "sha256": "b6a8ee453b4e168eea2cbe7766ccdd2943c6882843ded2d4a53f01eb53d5ee99"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response11/config.json",
+      "bytes": 468,
+      "sha256": "4e7aff027d0e6985086168327c63a4392e5a5e28eef0f82e20d31afb43aefdd1"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response12/config.json",
+      "bytes": 468,
+      "sha256": "5c08853b7b2c8eb3661d1b61d76166fc6def26d64fb54bce464b4bbd5869db36"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response13/config.json",
+      "bytes": 468,
+      "sha256": "bce925d6cbef4dadfc84a4233be3406df8cbf71b253a27bc39702311c6c82260"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response14/config.json",
+      "bytes": 468,
+      "sha256": "8a56f7d1da0340c08b437f931f953fd491da01d496a6664e83575890add8103e"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response15/config.json",
+      "bytes": 468,
+      "sha256": "758143a42116c11377d204547b2584b909d39d20f1cedd45f0bfa297a1261195"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response16/config.json",
+      "bytes": 468,
+      "sha256": "0bca740823095ea4e9ddf07e84b3a577d036c5aed7ad9032be3f4fb8017a0d9d"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response17/config.json",
+      "bytes": 468,
+      "sha256": "4516718fa55edca59f0ac8e04ad4426adc56528cee200d7991c90bb15ba2a51c"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/response18/config.json",
+      "bytes": 468,
+      "sha256": "1c97337c6b2cab0114eab2294c1a23df832cfcb1fee0f22fead15b475d50c557"
+    },
+    {
+      "path": "outputs/measured/light/WVM_author/shared_standardized_rows.csv",
+      "bytes": 7664512,
+      "sha256": "a1be3807b99e61c3788d025520ddac37952e395cba8b04e75250866760b783c3"
+    },
+    {
+      "path": "outputs/measured/optical/experiment69/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "19cd9b7356ef7625081e485db8e2c786ba1bf54aeb5af9fe6bb0285e33e05274"
+    },
+    {
+      "path": "outputs/measured/optical/experiment69/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151917,
+      "sha256": "b3e0157e3c49baa3a366fabea3f79285c9f14638daa41fa50abcc036f5f87ba9"
+    },
+    {
+      "path": "outputs/measured/optical/experiment70/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "f9806a21618bd4aeba63fee0534e5d499d4c60a4f089b88e89246df5a5435457"
+    },
+    {
+      "path": "outputs/measured/optical/experiment70/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151827,
+      "sha256": "c33f8e489b49e1ff8f04e77476ad497ae55b7fa667a814f045d74942c5390924"
+    },
+    {
+      "path": "outputs/measured/optical/experiment71/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "6431f43635c0c0dcf1313c3e7c01a276461a432fcebd056030df7afb4ed6c891"
+    },
+    {
+      "path": "outputs/measured/optical/experiment71/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151824,
+      "sha256": "eb8af7e7bfee639490d3058f3e298075f97a5320baa698a80ba5120f30f2780c"
+    },
+    {
+      "path": "outputs/measured/optical/experiment72/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "c5403ab733aacd8b326ac925e5e3012bd29e140b8328eb5ddf93183656b1e6ea"
+    },
+    {
+      "path": "outputs/measured/optical/experiment72/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151007,
+      "sha256": "b379b8ec61c426ece67c1b1e58b4a629cc5591518201d91327c14aa30ea6f027"
+    },
+    {
+      "path": "outputs/measured/optical/experiment73/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "cbf6ccda7034643fa1fb5c556ee084df01605393a40a529982ed01ae18efbbaf"
+    },
+    {
+      "path": "outputs/measured/optical/experiment73/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151367,
+      "sha256": "fde659287e7a298ba8001c0dcf3521a0fa2da6b953e76547d0f170a320ac1d45"
+    },
+    {
+      "path": "outputs/measured/optical/experiment74/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "0aee0ee323dfa237fb41a36b69d075345120cabd1170197d0133892845f134e8"
+    },
+    {
+      "path": "outputs/measured/optical/experiment74/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151053,
+      "sha256": "cd42b1c2ef1f4ab94cf45d413bbe10563e3f81b50bfaf97d98a27a924f5cc9e1"
+    },
+    {
+      "path": "outputs/measured/optical/experiment75/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "0fa502880cdcc0f93370184b0f5284fe746699933dd42b1b23768ea0a3d755c7"
+    },
+    {
+      "path": "outputs/measured/optical/experiment75/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151582,
+      "sha256": "8e11f0489545cf628c187792928fa6b246dab2b6ac566e76afc78ec464107235"
+    },
+    {
+      "path": "outputs/measured/optical/experiment77/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "93cb96b88ed03fe073cf7758f6bb6bb5eee40597490103e494e19c667c3224a6"
+    },
+    {
+      "path": "outputs/measured/optical/experiment77/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151124,
+      "sha256": "054b67213426f90561a6361116f3dc37a453576c81a407b2ef264996906a0043"
+    },
+    {
+      "path": "outputs/measured/optical/experiment78/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "867dec93925a36c6af685f5dea43a5d0421d566444957152b5712a7b15226ddd"
+    },
+    {
+      "path": "outputs/measured/optical/experiment78/WVM_author/shared_standardized_rows.csv",
+      "bytes": 151845,
+      "sha256": "fb3068c1f60f0f82ddb92a41c1df85e17e08dd232166b2e35667df3734af5d12"
+    },
+    {
+      "path": "outputs/measured/optical/experiment79/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "1882be4be59ef55a4b263fcbf5ac1de1114a4f6ba59689d8506dff7e482468b4"
+    },
+    {
+      "path": "outputs/measured/optical/experiment79/WVM_author/shared_standardized_rows.csv",
+      "bytes": 152504,
+      "sha256": "1c840cee5f81f6edfa6dedbb9ad9c6f9c6c4eca6f4a043ce46894eb3fecdb4c4"
+    },
+    {
+      "path": "outputs/measured/optical/experiment80/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "56e1f32a82e18228504adee44b9361e01d1e1e263440080560ac32b5807d411b"
+    },
+    {
+      "path": "outputs/measured/optical/experiment80/WVM_author/shared_standardized_rows.csv",
+      "bytes": 152041,
+      "sha256": "da719fc568e85c8a5967140153cd48240647d732c5fb38a4fcbcfa9b9362802b"
+    },
+    {
+      "path": "outputs/measured/optical/experiment81/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "f31201c84b9c8411ec605a7d7f1109008c55df09c00816c5a46d4c5859a980c3"
+    },
+    {
+      "path": "outputs/measured/optical/experiment81/WVM_author/shared_standardized_rows.csv",
+      "bytes": 199882,
+      "sha256": "5236c3841a2aca8be726c18630036bc34aa417277330fee979da8484def9fa98"
+    },
+    {
+      "path": "outputs/measured/optical/experiment82/WVM_author/response9/config.json",
+      "bytes": 381,
+      "sha256": "b7ee8269066270fba572efc25edd385ac5c9eb04422272599133408343c6f674"
+    },
+    {
+      "path": "outputs/measured/optical/experiment82/WVM_author/shared_standardized_rows.csv",
+      "bytes": 152269,
+      "sha256": "0f3c56ec988e3d7889fc139965de8f2e553bbdcd66c32c979d183b0b8e80b482"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response21/config.json",
+      "bytes": 707,
+      "sha256": "c1f95a64c973d41b6bdc7df0311728d30f314f00b2ec0cf479136617abc71047"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response22/config.json",
+      "bytes": 707,
+      "sha256": "267386219d723055b3e37d11c0388479f0ccde03afdbacbfaa8a5a3ed8d9ae08"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response23/config.json",
+      "bytes": 707,
+      "sha256": "e5d0838249112050ae5601a17a9fc56b704f6fdd87a27499d2b97ca9effc8691"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response24/config.json",
+      "bytes": 707,
+      "sha256": "08651718d1253810bb600c6032e555c5a223e277580c99adfefe18f5754515c3"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response25/config.json",
+      "bytes": 707,
+      "sha256": "aaabd82b5d51148c7f84e368da03df83f2e29b63da897421a462d7d977287d9d"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response26/config.json",
+      "bytes": 707,
+      "sha256": "eeb52ff3127e24f19ece5f0a45933aa75b1244beaf947a84fe126a4d5d2923ff"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response27/config.json",
+      "bytes": 707,
+      "sha256": "2e68ec6bd13ac79aa52df5230420a9aaf21af407739428c58761f07f169a5df5"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response28/config.json",
+      "bytes": 707,
+      "sha256": "df852b547a3ccc0be10b729794ce664ca2b162bf24f3504254676a6fc248d94b"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response29/config.json",
+      "bytes": 707,
+      "sha256": "ad43480c9da6ec5ece1837ab76bcc081788aefd2497cf098d52db94f7c49297d"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response30/config.json",
+      "bytes": 707,
+      "sha256": "e38d866ae945419ed839e95b8d9134edfe1b9abe157498613b77208e93dac737"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/response31/config.json",
+      "bytes": 707,
+      "sha256": "70e59ab13c6028aa15e5600d360df870d5c53730096554837f027bc71fbfb3f1"
+    },
+    {
+      "path": "outputs/measured/wind/WVM_author/shared_standardized_rows.csv",
+      "bytes": 16716671,
+      "sha256": "e43e5c84c3d8c526954835729dab86adee683ba2c847a79d129dcb8873bb74dc"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "nodes": [
+    4,
+    5,
+    6
+  ],
+  "modes": 4,
+  "repeats": 2,
+  "seed_rule": "3800000 + size*100 + mode*10 + repeat",
+  "cases": 24,
+  "queries": 48,
+  "general_acyclic_parameterization": true,
+  "arithmetic": "exact rational",
+  "inference": "deterministic algebra verification"
+}

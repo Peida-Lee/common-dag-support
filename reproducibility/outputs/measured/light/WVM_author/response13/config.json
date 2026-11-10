@@ -1,0 +1,36 @@
+{
+  "csv": "${PACKAGE}/outputs/measured/light/WVM_author/shared_standardized_rows.csv",
+  "counts": [
+    10000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ],
+  "predictor_columns": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "response_column": 14,
+  "alphas": [
+    0.0005555555555555556,
+    0.05
+  ],
+  "B": 200,
+  "seed": 3489013,
+  "input_role": "shared_grouped_rows"
+}

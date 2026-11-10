@@ -1,0 +1,12 @@
+{
+  "status": "passed",
+  "source_conditions": 2048,
+  "unqualified": 26,
+  "coefficient_intervals": 60660,
+  "rational_witnesses": 1474,
+  "rational_point_inequalities": 7370,
+  "excluded_joint_sets": 548,
+  "Sturm_evaluations": 76824,
+  "false_reports": 0,
+  "unresolved": 0
+}

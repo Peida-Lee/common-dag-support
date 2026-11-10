@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 300,
+  "identifier": "validate_v_out__rpm_out",
+  "source": "validate_v_out.csv",
+  "target": "v_out",
+  "response": "rpm_out",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      109,
+      91
+    ],
+    "KS_height_integer": 1374,
+    "KS_statistic_exact": "1374/9919",
+    "raw_P_exact": "5330595670673007531170075475810526709455801220673506732577/20200238743326160324094408827895665977541361299442726264000",
+    "raw_P_decimal_upper": "0.263887755902595562465741034780846041235924366",
+    "raw_component_P": [
+      0.26388775590259556
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "5330595670673007531170075475810526709455801220673506732577/20200238743326160324094408827895665977541361299442726264000",
+  "rejected": false
+}

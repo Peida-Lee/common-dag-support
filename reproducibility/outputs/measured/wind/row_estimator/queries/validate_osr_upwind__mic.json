@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 202,
+  "identifier": "validate_osr_upwind__mic",
+  "source": "validate_osr_upwind.csv",
+  "target": "osr_upwind",
+  "response": "mic",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      100,
+      100
+    ],
+    "KS_height_integer": 1400,
+    "KS_statistic_exact": "7/50",
+    "raw_P_exact": "12828842109978778713801286634435700462017378257195053659/45501766158845869932363908079137770791208336520308209468",
+    "raw_P_decimal_upper": "0.281941629808247777828264186048662863393013700",
+    "raw_component_P": [
+      0.2819416298082478
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "12828842109978778713801286634435700462017378257195053659/45501766158845869932363908079137770791208336520308209468",
+  "rejected": false
+}

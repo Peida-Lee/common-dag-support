@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 20,
+  "identifier": "validate_hatch_pressures__pressure_ambient",
+  "source": "validate_hatch_pressures.csv",
+  "target": "hatch",
+  "response": "pressure_ambient",
+  "n": 50,
+  "selected": {
+    "n": 50,
+    "counts": [
+      21,
+      29
+    ],
+    "KS_height_integer": 186,
+    "KS_statistic_exact": "62/203",
+    "raw_P_exact": "1352440565849/8415930757850",
+    "raw_P_decimal_upper": "0.160700058586806282845610472693345033685934439",
+    "raw_component_P": [
+      0.16070005858680628
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Raw_KS"
+  },
+  "original_P": "1352440565849/8415930757850",
+  "rejected": false
+}

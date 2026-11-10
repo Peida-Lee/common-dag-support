@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 218,
+  "identifier": "validate_pot_1__pressure_ambient",
+  "source": "validate_pot_1.csv",
+  "target": "pot_1",
+  "response": "pressure_ambient",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      99,
+      101
+    ],
+    "KS_height_integer": 1199,
+    "KS_statistic_exact": "109/909",
+    "raw_P_exact": "94310345867613866775300145977344375100058853231202891133/224129986772532874171792517518525158105209380384686477330",
+    "raw_P_decimal_upper": "0.420784149527160004084192101743893243033791325",
+    "raw_component_P": [
+      0.42078414952716
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "94310345867613866775300145977344375100058853231202891133/224129986772532874171792517518525158105209380384686477330",
+  "rejected": false
+}

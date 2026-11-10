@@ -1,0 +1,10 @@
+{
+  "specified_beijing": "2026-11-10T05:31:43.798660+08:00",
+  "rule": "report all slots in the declared domain",
+  "code_sha256": "60a93f4b81f85f343d6f07a56bd3fd9689f45e56735000329b18b76c11dbdcd1",
+  "input_fingerprints": {
+    "specifications/reference_labels.json": "f62297c6fab9cd7016b393dcf2a48fc9895bc662543deec6598554ae5d3c7e6e",
+    "specifications/final_measured_plan.json": "3e574694f4bea4531e49d2d6a8159745ac726a2f8cc8da5dfee1d9e8a652cce7"
+  },
+  "rationale": "theory_density_reference378_v1.md"
+}

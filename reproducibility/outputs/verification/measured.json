@@ -1,0 +1,98 @@
+{
+  "status": "passed",
+  "optical": [
+    {
+      "status": "completed",
+      "experiment": 78,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 751
+    },
+    {
+      "status": "completed",
+      "experiment": 75,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 751
+    },
+    {
+      "status": "completed",
+      "experiment": 69,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 749
+    },
+    {
+      "status": "completed",
+      "experiment": 80,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 750
+    },
+    {
+      "status": "completed",
+      "experiment": 72,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 748
+    },
+    {
+      "status": "completed",
+      "experiment": 79,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 752
+    },
+    {
+      "status": "completed",
+      "experiment": 77,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 747
+    },
+    {
+      "status": "completed",
+      "experiment": 82,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 751
+    },
+    {
+      "status": "completed",
+      "experiment": 81,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 999
+    },
+    {
+      "status": "completed",
+      "experiment": 74,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 750
+    },
+    {
+      "status": "completed",
+      "experiment": 73,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 747
+    },
+    {
+      "status": "completed",
+      "experiment": 71,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 750
+    },
+    {
+      "status": "completed",
+      "experiment": 70,
+      "original_P_checks": 9,
+      "rank": 10,
+      "transformed_rows": 751
+    }
+  ],
+  "light_rank_values": 2949120,
+  "camera_condition_P_values": 150
+}

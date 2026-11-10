@@ -1,0 +1,109 @@
+{
+  "status": "completed",
+  "method": "WVM_author",
+  "native_edges": [],
+  "native_undirected_edges": [],
+  "author": {
+    "exclusion_scores": [
+      0.00011574067295989828,
+      9.276321331957491e-05,
+      0.00010992733024759219,
+      0.00014490253793262193,
+      0.00020578003339335804,
+      0.00011947289315773153,
+      6.720843533443048e-05,
+      6.289857388866797e-05,
+      4.774733382341288e-05
+    ],
+    "predictor_columns": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "entrypoint": "WV_screening",
+    "B": 200,
+    "julia_version": "1.6.7",
+    "response_column": 10,
+    "status": "completed",
+    "group_counts": [
+      374,
+      374
+    ],
+    "source_modified": false,
+    "author_causes_by_level": [
+      [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ]
+    ],
+    "input_role": "shared standardized original rows grouped by source experiment",
+    "raw_pvalues": [
+      0.7347558903569763,
+      0.8699671355473769,
+      0.772326958406515,
+      0.5333321694473072,
+      0.19768529174847138,
+      0.7098120324213906,
+      0.9637436067227847,
+      0.9729499427691546,
+      0.9927040901698441
+    ],
+    "seconds": 40.936989068984985,
+    "author_thresholds": [
+      0.00026911914781384955,
+      0.00035381850075757326
+    ],
+    "rows": 748,
+    "author_global_minimum": 6.093303515923077e-05,
+    "seed": 3947144
+  },
+  "truth_read": false,
+  "metadata": {
+    "source_modified": false,
+    "B": 200,
+    "levels": [
+      0.05,
+      0.005555555555555556
+    ],
+    "native_graphs_by_level": [
+      [],
+      []
+    ],
+    "author_causes_shape": "multiple_level_rows",
+    "output_adapter": "wvm_output_adapter335_v1.py",
+    "optimization_replayed": true,
+    "calibration": "author_bootstrap_moments_Gamma",
+    "source_commit": "ff98a88c81020d6dee74462625696ef17cedcbd5"
+  },
+  "qualified_edges": [],
+  "detected_pixels": [],
+  "panel": "optical",
+  "experiment": 72,
+  "started_epoch": 1794245275.211939,
+  "finished_epoch": 1794245329.938353,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

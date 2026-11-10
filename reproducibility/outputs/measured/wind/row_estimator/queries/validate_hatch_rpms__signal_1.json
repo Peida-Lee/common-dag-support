@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 27,
+  "identifier": "validate_hatch_rpms__signal_1",
+  "source": "validate_hatch_rpms.csv",
+  "target": "hatch",
+  "response": "signal_1",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      117,
+      83
+    ],
+    "KS_height_integer": 1002,
+    "KS_statistic_exact": "334/3237",
+    "raw_P_exact": "1588546662820816646281545976068366143499952073567397783079/2517504907187302220866436485730765506656199417289588428000",
+    "raw_P_decimal_upper": "0.631000423588302013019986877622709980055306618",
+    "raw_component_P": [
+      0.631000423588302
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "1588546662820816646281545976068366143499952073567397783079/2517504907187302220866436485730765506656199417289588428000",
+  "rejected": false
+}

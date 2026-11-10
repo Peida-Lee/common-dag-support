@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 302,
+  "identifier": "validate_v_out__signal_1",
+  "source": "validate_v_out.csv",
+  "target": "v_out",
+  "response": "signal_1",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      109,
+      91
+    ],
+    "KS_height_integer": 645,
+    "KS_statistic_exact": "645/9919",
+    "raw_P_exact": "20240175193397749899425439426311349971704161108208490967/20824988395181608581540627657624397914991094123136831200",
+    "raw_P_decimal_upper": "0.971917717758768590244348386498782952493549501",
+    "raw_component_P": [
+      0.9719177177587686
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "20240175193397749899425439426311349971704161108208490967/20824988395181608581540627657624397914991094123136831200",
+  "rejected": false
+}

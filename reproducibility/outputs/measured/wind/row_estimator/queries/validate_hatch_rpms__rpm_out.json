@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 25,
+  "identifier": "validate_hatch_rpms__rpm_out",
+  "source": "validate_hatch_rpms.csv",
+  "target": "hatch",
+  "response": "rpm_out",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      117,
+      83
+    ],
+    "KS_height_integer": 9711,
+    "KS_statistic_exact": "1",
+    "raw_P_exact": "1/2517504907187302220866436485730765506656199417289588428000",
+    "raw_P_decimal_upper": "3.97218689483015199259024060167521478907003811E-58",
+    "raw_component_P": [
+      3.972186894830152e-58
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": true,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "1/2517504907187302220866436485730765506656199417289588428000",
+  "rejected": true
+}

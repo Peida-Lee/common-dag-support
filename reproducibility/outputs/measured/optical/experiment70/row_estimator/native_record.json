@@ -1,0 +1,124 @@
+{
+  "status": "completed",
+  "experiment": 70,
+  "scores": {
+    "PC": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "GES": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 8,
+      "SHD": 8,
+      "F1": 0.2,
+      "F1_exact": "1/5"
+    },
+    "GIES": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 8,
+      "SHD": 8,
+      "F1": 0.2,
+      "F1_exact": "1/5"
+    },
+    "Gaussian_BIC_root_domain": {
+      "TP": 1,
+      "FP": 0,
+      "FN": 8,
+      "SHD": 8,
+      "F1": 0.2,
+      "F1_exact": "1/5"
+    },
+    "DirectLiNGAM": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "NOTEARS": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "DAGMA": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "GOLEM": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "MuDo_CoM": {
+      "TP": 6,
+      "FP": 0,
+      "FN": 3,
+      "SHD": 3,
+      "F1": 0.8,
+      "F1_exact": "4/5"
+    },
+    "WVM_author": {
+      "TP": 0,
+      "FP": 0,
+      "FN": 9,
+      "SHD": 9,
+      "F1": 0.0,
+      "F1_exact": "0"
+    },
+    "row_estimator": {
+      "TP": 6,
+      "FP": 0,
+      "FN": 3,
+      "SHD": 3,
+      "F1": 0.8,
+      "F1_exact": "4/5"
+    }
+  },
+  "reference_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "predicted_pixels": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    8
+  ],
+  "inherited_pixels": [
+    0,
+    1,
+    2,
+    5,
+    6,
+    8
+  ],
+  "certified_pixels": [],
+  "added_true": 0,
+  "added_false": 0
+}

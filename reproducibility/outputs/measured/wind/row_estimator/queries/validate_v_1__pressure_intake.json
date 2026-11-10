@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 261,
+  "identifier": "validate_v_1__pressure_intake",
+  "source": "validate_v_1.csv",
+  "target": "v_1",
+  "response": "pressure_intake",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      105,
+      95
+    ],
+    "KS_height_integer": 810,
+    "KS_statistic_exact": "54/665",
+    "raw_P_exact": "6085086270746972674213637896568401225635870032142701422051/7059991197802952667493535917111232393148075858232633515840",
+    "raw_P_decimal_upper": "0.861911311254981822280960407246044858065026231",
+    "raw_component_P": [
+      0.8619113112549818
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "6085086270746972674213637896568401225635870032142701422051/7059991197802952667493535917111232393148075858232633515840",
+  "rejected": false
+}

@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 31,
+  "identifier": "validate_hatch_rpms__pressure_ambient",
+  "source": "validate_hatch_rpms.csv",
+  "target": "hatch",
+  "response": "pressure_ambient",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      117,
+      83
+    ],
+    "KS_height_integer": 1175,
+    "KS_statistic_exact": "1175/9711",
+    "raw_P_exact": "1043722446860936780426085346116276315863117945919951973/2413715155500769147522949650748576708203451023288196000",
+    "raw_P_decimal_upper": "0.432413263214729891865980439333965935173703353",
+    "raw_component_P": [
+      0.4324132632147299
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "1043722446860936780426085346116276315863117945919951973/2413715155500769147522949650748576708203451023288196000",
+  "rejected": false
+}

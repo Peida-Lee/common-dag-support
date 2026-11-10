@@ -1,0 +1,125 @@
+{
+  "status": "completed",
+  "method": "WVM_author",
+  "native_edges": [
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      6
+    ]
+  ],
+  "native_undirected_edges": [],
+  "author": {
+    "exclusion_scores": [
+      1.1360595290130478e-06,
+      9.37308648875022e-07,
+      1.566950428979329e-06,
+      0.06872946810480275,
+      2.955253824350944e-05
+    ],
+    "predictor_columns": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "entrypoint": "WV_screening",
+    "B": 200,
+    "julia_version": "1.6.7",
+    "response_column": 7,
+    "status": "completed",
+    "group_counts": [
+      4096,
+      4096,
+      4096
+    ],
+    "source_modified": false,
+    "author_causes_by_level": [
+      [
+        false,
+        false,
+        false,
+        true,
+        true
+      ],
+      [
+        false,
+        false,
+        false,
+        true,
+        true
+      ]
+    ],
+    "input_role": "shared standardized original rows grouped by source experiment",
+    "raw_pvalues": [
+      0.7491935257183775,
+      0.8691753698909123,
+      0.4420580642122851,
+      0.0,
+      0.0
+    ],
+    "seconds": 66.0977430343628,
+    "author_thresholds": [
+      3.969252226317238e-06,
+      2.614219406641602e-06
+    ],
+    "rows": 12288,
+    "author_global_minimum": 8.359541024862496e-07,
+    "seed": 3469006
+  },
+  "truth_read": false,
+  "metadata": {
+    "source_modified": false,
+    "B": 200,
+    "levels": [
+      0.001,
+      0.05
+    ],
+    "native_graphs_by_level": [
+      [
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6
+        ]
+      ],
+      [
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6
+        ]
+      ]
+    ],
+    "author_causes_shape": "multiple_level_rows",
+    "output_adapter": "wvm_output_adapter335_v1.py",
+    "optimization_replayed": true,
+    "calibration": "author_bootstrap_moments_Gamma",
+    "source_commit": "ff98a88c81020d6dee74462625696ef17cedcbd5"
+  },
+  "qualified_edges": [
+    [
+      3,
+      6
+    ],
+    [
+      4,
+      6
+    ]
+  ],
+  "panel": "camera",
+  "experiment": null,
+  "started_epoch": 1794245275.2058725,
+  "finished_epoch": 1794245354.3821878,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

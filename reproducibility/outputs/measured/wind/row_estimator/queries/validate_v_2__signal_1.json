@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 269,
+  "identifier": "validate_v_2__signal_1",
+  "source": "validate_v_2.csv",
+  "target": "v_2",
+  "response": "signal_1",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      110,
+      90
+    ],
+    "KS_height_integer": 870,
+    "KS_statistic_exact": "29/330",
+    "raw_P_exact": "3347265220509981655749518348682757212758162980179953329709/4177776649187910430664980007587512736264236086930200204600",
+    "raw_P_decimal_upper": "0.801207317093084370806588724063329339331426284",
+    "raw_component_P": [
+      0.8012073170930843
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": false,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "projection_applied": false
+  },
+  "original_P": "3347265220509981655749518348682757212758162980179953329709/4177776649187910430664980007587512736264236086930200204600",
+  "rejected": false
+}

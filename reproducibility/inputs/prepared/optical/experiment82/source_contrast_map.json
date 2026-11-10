@@ -1,0 +1,2496 @@
+[
+  {
+    "level": 0.0,
+    "original_rows": [
+      349,
+      472,
+      596,
+      680,
+      885
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 1.0,
+    "original_rows": [
+      175,
+      371,
+      508,
+      794
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 3.0,
+    "original_rows": [
+      1,
+      128,
+      192,
+      421,
+      601,
+      730
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 4.0,
+    "original_rows": [
+      551,
+      904,
+      905
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 5.0,
+    "original_rows": [
+      86,
+      167,
+      591,
+      844,
+      939,
+      944,
+      981
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 6.0,
+    "original_rows": [
+      164,
+      213
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 7.0,
+    "original_rows": [
+      327,
+      882
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 8.0,
+    "original_rows": [
+      95,
+      835,
+      865,
+      917,
+      974
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 9.0,
+    "original_rows": [
+      360,
+      582,
+      617,
+      859
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 10.0,
+    "original_rows": [
+      336,
+      411
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 11.0,
+    "original_rows": [
+      72,
+      144,
+      261,
+      636,
+      702,
+      749,
+      759,
+      858
+    ],
+    "contrasts": 7
+  },
+  {
+    "level": 12.0,
+    "original_rows": [
+      9,
+      28,
+      259,
+      499,
+      509
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 13.0,
+    "original_rows": [
+      6,
+      332,
+      475,
+      507,
+      687,
+      770,
+      942,
+      949
+    ],
+    "contrasts": 7
+  },
+  {
+    "level": 14.0,
+    "original_rows": [
+      172,
+      181,
+      430,
+      461,
+      579,
+      767
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 15.0,
+    "original_rows": [
+      34,
+      344,
+      741,
+      847,
+      875
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 16.0,
+    "original_rows": [
+      156,
+      610
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 17.0,
+    "original_rows": [
+      196,
+      662,
+      751
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 18.0,
+    "original_rows": [
+      359,
+      620,
+      656,
+      929
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 19.0,
+    "original_rows": [
+      673,
+      772
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 20.0,
+    "original_rows": [
+      477,
+      496,
+      510,
+      708,
+      995
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 21.0,
+    "original_rows": [
+      104,
+      570,
+      671,
+      831
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 22.0,
+    "original_rows": [
+      282,
+      752,
+      938
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 23.0,
+    "original_rows": [
+      437,
+      467,
+      583
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 24.0,
+    "original_rows": [
+      374,
+      536,
+      635,
+      891
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 25.0,
+    "original_rows": [
+      255,
+      526,
+      559
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 26.0,
+    "original_rows": [
+      60,
+      85,
+      856,
+      887
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 27.0,
+    "original_rows": [
+      207,
+      480,
+      911,
+      934
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 28.0,
+    "original_rows": [
+      660,
+      963,
+      973
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 29.0,
+    "original_rows": [
+      130,
+      208,
+      414,
+      558,
+      632
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 30.0,
+    "original_rows": [
+      125,
+      199,
+      324,
+      874
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 31.0,
+    "original_rows": [
+      186,
+      512,
+      695
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 32.0,
+    "original_rows": [
+      43,
+      348,
+      450,
+      864
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 33.0,
+    "original_rows": [
+      533,
+      731,
+      846
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 34.0,
+    "original_rows": [
+      240,
+      928
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 35.0,
+    "original_rows": [
+      33,
+      410,
+      462,
+      506,
+      852,
+      916,
+      972
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 36.0,
+    "original_rows": [
+      163,
+      210,
+      382,
+      853,
+      914,
+      967
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 37.0,
+    "original_rows": [
+      145,
+      434,
+      704,
+      994
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 38.0,
+    "original_rows": [
+      953,
+      965
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 39.0,
+    "original_rows": [
+      441
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 40.0,
+    "original_rows": [
+      5,
+      148,
+      157,
+      177,
+      247,
+      738,
+      907
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 41.0,
+    "original_rows": [
+      629
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 42.0,
+    "original_rows": [
+      389,
+      892
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 43.0,
+    "original_rows": [
+      56,
+      253,
+      270,
+      519,
+      870
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 44.0,
+    "original_rows": [
+      81,
+      194,
+      366,
+      438,
+      498,
+      521,
+      550,
+      646,
+      982
+    ],
+    "contrasts": 8
+  },
+  {
+    "level": 45.0,
+    "original_rows": [
+      463,
+      810,
+      888
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 46.0,
+    "original_rows": [
+      48,
+      65,
+      304,
+      674,
+      737
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 47.0,
+    "original_rows": [
+      53,
+      518,
+      622
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 48.0,
+    "original_rows": [
+      39,
+      126,
+      352,
+      473
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 49.0,
+    "original_rows": [
+      561,
+      716,
+      867
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 50.0,
+    "original_rows": [
+      10,
+      197,
+      697,
+      707,
+      985
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 51.0,
+    "original_rows": [
+      315,
+      698,
+      912
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 52.0,
+    "original_rows": [
+      654
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 53.0,
+    "original_rows": [
+      23
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 54.0,
+    "original_rows": [
+      55,
+      78,
+      258,
+      523,
+      627,
+      642,
+      780,
+      977
+    ],
+    "contrasts": 7
+  },
+  {
+    "level": 55.0,
+    "original_rows": [
+      298,
+      341,
+      425,
+      529,
+      986
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 56.0,
+    "original_rows": [
+      75,
+      842,
+      957
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 57.0,
+    "original_rows": [
+      427
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 58.0,
+    "original_rows": [
+      41,
+      358,
+      373,
+      488
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 59.0,
+    "original_rows": [
+      64,
+      540,
+      700,
+      838
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 60.0,
+    "original_rows": [
+      314,
+      608,
+      798,
+      871
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 61.0,
+    "original_rows": [
+      612
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 62.0,
+    "original_rows": [
+      24,
+      618
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 63.0,
+    "original_rows": [
+      268,
+      339,
+      542,
+      719
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 64.0,
+    "original_rows": [
+      63,
+      233,
+      260,
+      306
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 65.0,
+    "original_rows": [
+      402,
+      557
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 66.0,
+    "original_rows": [
+      69,
+      138,
+      204,
+      594,
+      898,
+      920
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 67.0,
+    "original_rows": [
+      187,
+      301,
+      396,
+      452,
+      525,
+      603,
+      637
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 68.0,
+    "original_rows": [
+      183
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 69.0,
+    "original_rows": [
+      74,
+      284,
+      449,
+      474,
+      504,
+      975
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 70.0,
+    "original_rows": [
+      111,
+      272,
+      515,
+      890
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 71.0,
+    "original_rows": [
+      288,
+      491,
+      575,
+      910
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 72.0,
+    "original_rows": [
+      176,
+      370,
+      805,
+      809,
+      932
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 74.0,
+    "original_rows": [
+      36,
+      231,
+      310,
+      520,
+      554
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 75.0,
+    "original_rows": [
+      291,
+      419,
+      760,
+      886,
+      958,
+      990
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 76.0,
+    "original_rows": [
+      279
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 78.0,
+    "original_rows": [
+      152,
+      312,
+      447
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 79.0,
+    "original_rows": [
+      490,
+      534,
+      576,
+      778
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 80.0,
+    "original_rows": [
+      120,
+      179,
+      335,
+      426,
+      451,
+      797,
+      834,
+      894
+    ],
+    "contrasts": 7
+  },
+  {
+    "level": 81.0,
+    "original_rows": [
+      184,
+      308
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 82.0,
+    "original_rows": [
+      235,
+      663
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 83.0,
+    "original_rows": [
+      375,
+      478
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 84.0,
+    "original_rows": [
+      232
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 85.0,
+    "original_rows": [
+      8,
+      230,
+      643,
+      683,
+      710,
+      788
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 86.0,
+    "original_rows": [
+      92,
+      385,
+      420,
+      552,
+      848
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 87.0,
+    "original_rows": [
+      142,
+      151,
+      263,
+      277,
+      793,
+      823,
+      908
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 88.0,
+    "original_rows": [
+      221,
+      625
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 90.0,
+    "original_rows": [
+      174
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 91.0,
+    "original_rows": [
+      57,
+      926
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 92.0,
+    "original_rows": [
+      388,
+      501
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 93.0,
+    "original_rows": [
+      555,
+      748,
+      785,
+      991
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 94.0,
+    "original_rows": [
+      178,
+      245,
+      549,
+      735,
+      980
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 95.0,
+    "original_rows": [
+      50,
+      546,
+      630
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 96.0,
+    "original_rows": [
+      317,
+      326,
+      776,
+      827,
+      832
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 97.0,
+    "original_rows": [
+      119,
+      250,
+      302,
+      305,
+      369,
+      470,
+      505
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 98.0,
+    "original_rows": [
+      83,
+      246,
+      372,
+      445
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 99.0,
+    "original_rows": [
+      514,
+      573,
+      614,
+      954
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 100.0,
+    "original_rows": [
+      670,
+      690
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 101.0,
+    "original_rows": [
+      252,
+      503,
+      684,
+      799,
+      850,
+      987
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 102.0,
+    "original_rows": [
+      84,
+      300,
+      691,
+      897
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 103.0,
+    "original_rows": [
+      296,
+      392,
+      532,
+      565,
+      626,
+      686,
+      936
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 104.0,
+    "original_rows": [
+      556
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 105.0,
+    "original_rows": [
+      13,
+      54,
+      67,
+      355,
+      464,
+      615,
+      722,
+      747
+    ],
+    "contrasts": 7
+  },
+  {
+    "level": 106.0,
+    "original_rows": [
+      236,
+      309
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 107.0,
+    "original_rows": [
+      37,
+      403,
+      597
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 108.0,
+    "original_rows": [
+      94,
+      580,
+      978
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 109.0,
+    "original_rows": [
+      158,
+      257,
+      484,
+      485,
+      762,
+      771,
+      817
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 110.0,
+    "original_rows": [
+      82,
+      110,
+      189,
+      458,
+      562,
+      860
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 111.0,
+    "original_rows": [
+      453,
+      489,
+      836
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 113.0,
+    "original_rows": [
+      51,
+      106,
+      248,
+      433,
+      553,
+      564,
+      872
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 114.0,
+    "original_rows": [
+      21,
+      364,
+      429,
+      487,
+      511,
+      563,
+      665,
+      777,
+      984
+    ],
+    "contrasts": 8
+  },
+  {
+    "level": 115.0,
+    "original_rows": [
+      211,
+      266,
+      765,
+      877,
+      909
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 116.0,
+    "original_rows": [
+      4,
+      657
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 117.0,
+    "original_rows": [
+      0,
+      237,
+      295,
+      323,
+      383,
+      677,
+      743,
+      951,
+      988
+    ],
+    "contrasts": 8
+  },
+  {
+    "level": 118.0,
+    "original_rows": [
+      89
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 119.0,
+    "original_rows": [
+      320,
+      325,
+      405,
+      539,
+      634,
+      971
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 120.0,
+    "original_rows": [
+      346,
+      899
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 121.0,
+    "original_rows": [
+      275,
+      616
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 122.0,
+    "original_rows": [
+      30,
+      239,
+      820
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 123.0,
+    "original_rows": [
+      357,
+      599,
+      841,
+      927
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 124.0,
+    "original_rows": [
+      40,
+      52,
+      394
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 125.0,
+    "original_rows": [
+      26,
+      384,
+      502,
+      712
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 126.0,
+    "original_rows": [
+      117,
+      153,
+      290,
+      900
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 127.0,
+    "original_rows": [
+      254,
+      311,
+      641,
+      861,
+      866
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 128.0,
+    "original_rows": [
+      76,
+      218,
+      321,
+      422,
+      775,
+      902
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 129.0,
+    "original_rows": [
+      173,
+      330,
+      647,
+      881
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 130.0,
+    "original_rows": [
+      209,
+      212,
+      376,
+      592
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 131.0,
+    "original_rows": [
+      826
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 132.0,
+    "original_rows": [
+      331,
+      350,
+      783,
+      828
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 133.0,
+    "original_rows": [
+      243,
+      244,
+      522,
+      605,
+      669,
+      753,
+      960
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 134.0,
+    "original_rows": [
+      227,
+      289,
+      318
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 135.0,
+    "original_rows": [
+      168,
+      538,
+      709
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 136.0,
+    "original_rows": [
+      574,
+      607,
+      964
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 137.0,
+    "original_rows": [
+      379,
+      436,
+      471,
+      734
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 138.0,
+    "original_rows": [
+      234,
+      769,
+      999
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 139.0,
+    "original_rows": [
+      127,
+      347,
+      585,
+      588
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 140.0,
+    "original_rows": [
+      143,
+      170,
+      286,
+      316,
+      469,
+      494,
+      718
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 141.0,
+    "original_rows": [
+      25,
+      149,
+      404,
+      406
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 142.0,
+    "original_rows": [
+      696,
+      845,
+      933
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 143.0,
+    "original_rows": [
+      62,
+      242,
+      602,
+      621,
+      807
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 144.0,
+    "original_rows": [
+      334,
+      435
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 145.0,
+    "original_rows": [
+      715
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 146.0,
+    "original_rows": [
+      109,
+      122,
+      188,
+      400,
+      455,
+      571,
+      919
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 147.0,
+    "original_rows": [
+      17,
+      201,
+      535,
+      804
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 148.0,
+    "original_rows": [
+      651,
+      728,
+      829
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 149.0,
+    "original_rows": [
+      121,
+      182,
+      203,
+      448,
+      584,
+      790
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 150.0,
+    "original_rows": [
+      361,
+      377,
+      664,
+      946,
+      961
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 151.0,
+    "original_rows": [
+      251,
+      397,
+      412,
+      465,
+      590
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 152.0,
+    "original_rows": [
+      99,
+      353,
+      378,
+      873,
+      952,
+      989
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 153.0,
+    "original_rows": [
+      42,
+      292,
+      613
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 154.0,
+    "original_rows": [
+      70,
+      808
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 155.0,
+    "original_rows": [
+      195,
+      262,
+      795,
+      824,
+      997
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 156.0,
+    "original_rows": [
+      285,
+      307,
+      497,
+      913,
+      935,
+      937
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 157.0,
+    "original_rows": [
+      46,
+      943
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 158.0,
+    "original_rows": [
+      223,
+      329,
+      714,
+      740,
+      868
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 159.0,
+    "original_rows": [
+      135,
+      340,
+      701,
+      802
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 160.0,
+    "original_rows": [
+      380,
+      586,
+      896,
+      969
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 161.0,
+    "original_rows": [
+      115,
+      136,
+      486,
+      644
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 162.0,
+    "original_rows": [
+      281,
+      294,
+      395,
+      418
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 163.0,
+    "original_rows": [
+      345,
+      547,
+      694,
+      733
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 164.0,
+    "original_rows": [
+      619,
+      754,
+      878
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 165.0,
+    "original_rows": [
+      476,
+      764,
+      947,
+      950
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 166.0,
+    "original_rows": [
+      544,
+      633,
+      736,
+      976
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 167.0,
+    "original_rows": [
+      14,
+      101,
+      113,
+      169,
+      460,
+      800
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 168.0,
+    "original_rows": [
+      264,
+      593,
+      652
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 169.0,
+    "original_rows": [
+      774,
+      779
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 170.0,
+    "original_rows": [
+      118,
+      479,
+      668,
+      784,
+      923
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 171.0,
+    "original_rows": [
+      150,
+      606,
+      689
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 172.0,
+    "original_rows": [
+      446,
+      640,
+      672,
+      781,
+      901
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 173.0,
+    "original_rows": [
+      77
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 174.0,
+    "original_rows": [
+      365,
+      413,
+      560
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 175.0,
+    "original_rows": [
+      61,
+      333,
+      351,
+      979
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 176.0,
+    "original_rows": [
+      131,
+      545,
+      720,
+      792,
+      863
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 177.0,
+    "original_rows": [
+      273,
+      299,
+      528,
+      611,
+      681
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 178.0,
+    "original_rows": [
+      572,
+      703,
+      821
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 179.0,
+    "original_rows": [
+      47,
+      249,
+      537,
+      650
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 180.0,
+    "original_rows": [
+      124,
+      256,
+      342,
+      440,
+      756,
+      851
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 181.0,
+    "original_rows": [
+      96,
+      409,
+      587,
+      699
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 182.0,
+    "original_rows": [
+      2,
+      116,
+      200,
+      225,
+      543,
+      833,
+      895
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 183.0,
+    "original_rows": [
+      107,
+      693,
+      931
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 184.0,
+    "original_rows": [
+      68,
+      362,
+      595,
+      755
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 185.0,
+    "original_rows": [
+      11,
+      238,
+      399,
+      581,
+      639
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 187.0,
+    "original_rows": [
+      80
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 188.0,
+    "original_rows": [
+      90,
+      132,
+      391
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 189.0,
+    "original_rows": [
+      274,
+      313,
+      417,
+      423
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 190.0,
+    "original_rows": [
+      206,
+      303,
+      661,
+      679,
+      869
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 191.0,
+    "original_rows": [
+      424
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 192.0,
+    "original_rows": [
+      16,
+      322,
+      791,
+      915
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 193.0,
+    "original_rows": [
+      114,
+      812,
+      843
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 194.0,
+    "original_rows": [
+      15,
+      27,
+      459,
+      516,
+      723
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 195.0,
+    "original_rows": [
+      267,
+      492,
+      786,
+      998
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 196.0,
+    "original_rows": [
+      20,
+      343,
+      495,
+      746
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 197.0,
+    "original_rows": [
+      278,
+      623,
+      956
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 198.0,
+    "original_rows": [
+      645,
+      744,
+      761,
+      837,
+      925
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 199.0,
+    "original_rows": [
+      692,
+      763,
+      876
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 200.0,
+    "original_rows": [
+      141,
+      161,
+      162,
+      444,
+      649
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 201.0,
+    "original_rows": [
+      88,
+      185,
+      241,
+      624,
+      653,
+      729
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 202.0,
+    "original_rows": [
+      79,
+      483,
+      921
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 203.0,
+    "original_rows": [
+      31,
+      724
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 204.0,
+    "original_rows": [
+      297,
+      401,
+      725,
+      966
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 205.0,
+    "original_rows": [
+      517,
+      568
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 206.0,
+    "original_rows": [
+      193,
+      276
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 207.0,
+    "original_rows": [
+      220,
+      682,
+      750,
+      959
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 208.0,
+    "original_rows": [
+      12,
+      468,
+      481,
+      524
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 209.0,
+    "original_rows": [
+      123,
+      214,
+      226,
+      924
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 210.0,
+    "original_rows": [
+      222,
+      757,
+      811,
+      822,
+      930,
+      945
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 211.0,
+    "original_rows": [
+      180,
+      454,
+      857
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 212.0,
+    "original_rows": [
+      49,
+      387,
+      968,
+      993
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 213.0,
+    "original_rows": [
+      443,
+      578,
+      711,
+      854
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 214.0,
+    "original_rows": [
+      71,
+      356
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 215.0,
+    "original_rows": [
+      22,
+      87,
+      146,
+      198,
+      319,
+      513,
+      813
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 216.0,
+    "original_rows": [
+      38,
+      98,
+      108,
+      219,
+      428
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 217.0,
+    "original_rows": [
+      18,
+      59,
+      675,
+      706,
+      819
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 218.0,
+    "original_rows": [
+      140,
+      171,
+      566,
+      598,
+      666
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 219.0,
+    "original_rows": [
+      19,
+      91,
+      457,
+      541
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 220.0,
+    "original_rows": [
+      390,
+      726,
+      745,
+      815,
+      955
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 221.0,
+    "original_rows": [
+      7,
+      386,
+      431,
+      658,
+      830
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 222.0,
+    "original_rows": [
+      93,
+      415,
+      482,
+      970
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 224.0,
+    "original_rows": [
+      328,
+      416,
+      466,
+      717,
+      884
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 225.0,
+    "original_rows": [
+      45,
+      154,
+      293,
+      530,
+      803,
+      855
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 226.0,
+    "original_rows": [
+      577,
+      727,
+      962
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 227.0,
+    "original_rows": [
+      166,
+      393,
+      655,
+      667,
+      839,
+      862,
+      906
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 228.0,
+    "original_rows": [
+      137
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 229.0,
+    "original_rows": [
+      35,
+      44,
+      73,
+      229,
+      265,
+      354,
+      407,
+      806
+    ],
+    "contrasts": 7
+  },
+  {
+    "level": 230.0,
+    "original_rows": [
+      133,
+      531,
+      631,
+      739,
+      814,
+      880,
+      948
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 231.0,
+    "original_rows": [
+      758
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 232.0,
+    "original_rows": [
+      112,
+      165,
+      337,
+      500,
+      983
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 233.0,
+    "original_rows": [
+      100,
+      155,
+      217,
+      283,
+      398,
+      688,
+      782
+    ],
+    "contrasts": 6
+  },
+  {
+    "level": 234.0,
+    "original_rows": [
+      190,
+      589,
+      903
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 235.0,
+    "original_rows": [
+      97
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 236.0,
+    "original_rows": [
+      103,
+      191,
+      269,
+      493,
+      742
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 237.0,
+    "original_rows": [
+      567,
+      713
+    ],
+    "contrasts": 1
+  },
+  {
+    "level": 238.0,
+    "original_rows": [
+      659,
+      676,
+      768,
+      789,
+      889
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 239.0,
+    "original_rows": [
+      271,
+      569,
+      922
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 240.0,
+    "original_rows": [
+      139,
+      228,
+      442,
+      548,
+      796,
+      879
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 241.0,
+    "original_rows": [
+      941
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 242.0,
+    "original_rows": [
+      408,
+      439,
+      732,
+      801,
+      840,
+      849
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 243.0,
+    "original_rows": [
+      159,
+      600,
+      685
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 244.0,
+    "original_rows": [
+      66,
+      456,
+      527,
+      604
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 245.0,
+    "original_rows": [
+      147,
+      338,
+      363
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 246.0,
+    "original_rows": [
+      215,
+      766,
+      940
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 247.0,
+    "original_rows": [
+      202,
+      280,
+      721,
+      996
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 248.0,
+    "original_rows": [
+      818
+    ],
+    "contrasts": 0
+  },
+  {
+    "level": 249.0,
+    "original_rows": [
+      3,
+      287,
+      432,
+      705,
+      787
+    ],
+    "contrasts": 4
+  },
+  {
+    "level": 250.0,
+    "original_rows": [
+      129,
+      367,
+      368,
+      816
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 251.0,
+    "original_rows": [
+      216,
+      773,
+      883
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 252.0,
+    "original_rows": [
+      29,
+      102,
+      609,
+      825
+    ],
+    "contrasts": 3
+  },
+  {
+    "level": 253.0,
+    "original_rows": [
+      105,
+      160,
+      224,
+      628,
+      638,
+      893
+    ],
+    "contrasts": 5
+  },
+  {
+    "level": 254.0,
+    "original_rows": [
+      58,
+      134,
+      992
+    ],
+    "contrasts": 2
+  },
+  {
+    "level": 255.0,
+    "original_rows": [
+      32,
+      205,
+      381,
+      648,
+      678,
+      918
+    ],
+    "contrasts": 5
+  }
+]

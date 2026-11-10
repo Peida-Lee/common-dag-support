@@ -1,0 +1,8279 @@
+{
+  "status": "completed",
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde",
+  "simulation": {
+    "status": "completed",
+    "settings": [
+      {
+        "template": 0,
+        "gap": "0",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 27,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "0",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "0",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "0",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/2",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 28,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/2",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/2",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 25,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/2",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/4",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 28,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/4",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/4",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 9,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/4",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 31,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/8",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 31,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/8",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/8",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 0,
+        "gap": "1/8",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 17,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "0",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 31,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "0",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "0",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "0",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/2",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/2",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 1,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/2",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/2",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/4",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/4",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/4",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 16,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/4",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/8",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/8",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/8",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 4,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 1,
+        "gap": "1/8",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 24,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "0",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 31,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "0",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "0",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "0",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/2",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 26,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/2",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 1,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/2",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/2",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/4",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 30,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/4",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 1,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/4",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 30,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/4",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/8",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 30,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/8",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/8",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 9,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 3,
+        "gap": "1/8",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "0",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "0",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "0",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "0",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/2",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/2",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/2",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 29,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/2",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/4",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/4",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/4",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 6,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/4",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 32,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/8",
+        "rows": 8192,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/8",
+        "rows": 32768,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/8",
+        "rows": 131072,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 0,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      },
+      {
+        "template": 4,
+        "gap": "1/8",
+        "rows": 524288,
+        "cases": 32,
+        "qualified": 32,
+        "reports": 25,
+        "original": 0,
+        "ordered": 0,
+        "one_box": 0
+      }
+    ],
+    "reasons": {
+      "retained_point_outer_profile": 1431,
+      "ancestry_not_certified": 26,
+      "all_quadratic_branches_excluded": 548,
+      "unbounded_Fieller_component": 43
+    },
+    "joint": {
+      "reports": 548,
+      "disagreements": 0,
+      "decision_sat": 1474,
+      "certification_rational_witness_verified": 1474,
+      "decision_unqualified": 26,
+      "certification_not_applicable": 26,
+      "decision_unsat": 548,
+      "certification_passed": 548
+    },
+    "conditions": 2048,
+    "reports": 548,
+    "qualified": 2022,
+    "null_reports": 0,
+    "missing": []
+  },
+  "measured": {
+    "status": "completed",
+    "panels": {
+      "light": {
+        "scores": {
+          "PC": {
+            "TP": 15,
+            "FP": 2,
+            "FN": 17,
+            "SHD": 19,
+            "F1": 0.6122448979591837,
+            "F1_exact": "30/49",
+            "edges": [
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_21",
+                "ir_3"
+              ],
+              [
+                "l_22",
+                "ir_3"
+              ],
+              [
+                "l_31",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ]
+            ]
+          },
+          "GES": {
+            "TP": 19,
+            "FP": 12,
+            "FN": 13,
+            "SHD": 25,
+            "F1": 0.6031746031746031,
+            "F1_exact": "38/63",
+            "edges": [
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_11",
+                "current"
+              ],
+              [
+                "l_12",
+                "angle_1"
+              ],
+              [
+                "l_12",
+                "angle_2"
+              ],
+              [
+                "l_21",
+                "ir_2"
+              ],
+              [
+                "l_21",
+                "ir_3"
+              ],
+              [
+                "l_22",
+                "angle_1"
+              ],
+              [
+                "l_22",
+                "angle_2"
+              ],
+              [
+                "l_31",
+                "angle_1"
+              ],
+              [
+                "l_31",
+                "ir_3"
+              ],
+              [
+                "l_32",
+                "ir_1"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "red",
+                "angle_1"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "GIES": {
+            "TP": 20,
+            "FP": 0,
+            "FN": 12,
+            "SHD": 12,
+            "F1": 0.7692307692307693,
+            "F1_exact": "10/13",
+            "edges": [
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "Gaussian_BIC_root_domain": {
+            "TP": 23,
+            "FP": 12,
+            "FN": 9,
+            "SHD": 21,
+            "F1": 0.6865671641791045,
+            "F1_exact": "46/67",
+            "edges": [
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_12",
+                "angle_1"
+              ],
+              [
+                "l_12",
+                "angle_2"
+              ],
+              [
+                "l_21",
+                "angle_1"
+              ],
+              [
+                "l_21",
+                "angle_2"
+              ],
+              [
+                "l_21",
+                "ir_2"
+              ],
+              [
+                "l_22",
+                "angle_1"
+              ],
+              [
+                "l_22",
+                "angle_2"
+              ],
+              [
+                "l_31",
+                "angle_1"
+              ],
+              [
+                "l_31",
+                "ir_3"
+              ],
+              [
+                "l_32",
+                "angle_2"
+              ],
+              [
+                "l_32",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_1"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "DirectLiNGAM": {
+            "TP": 23,
+            "FP": 14,
+            "FN": 9,
+            "SHD": 23,
+            "F1": 0.6666666666666666,
+            "F1_exact": "2/3",
+            "edges": [
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_11",
+                "angle_1"
+              ],
+              [
+                "l_12",
+                "angle_1"
+              ],
+              [
+                "l_12",
+                "angle_2"
+              ],
+              [
+                "l_21",
+                "angle_1"
+              ],
+              [
+                "l_21",
+                "angle_2"
+              ],
+              [
+                "l_21",
+                "ir_2"
+              ],
+              [
+                "l_22",
+                "angle_1"
+              ],
+              [
+                "l_22",
+                "angle_2"
+              ],
+              [
+                "l_31",
+                "angle_1"
+              ],
+              [
+                "l_31",
+                "ir_3"
+              ],
+              [
+                "l_32",
+                "angle_1"
+              ],
+              [
+                "l_32",
+                "angle_2"
+              ],
+              [
+                "l_32",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_1"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "NOTEARS": {
+            "TP": 5,
+            "FP": 0,
+            "FN": 27,
+            "SHD": 27,
+            "F1": 0.2702702702702703,
+            "F1_exact": "10/37",
+            "edges": [
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ]
+            ]
+          },
+          "DAGMA": {
+            "TP": 7,
+            "FP": 0,
+            "FN": 25,
+            "SHD": 25,
+            "F1": 0.358974358974359,
+            "F1_exact": "14/39",
+            "edges": [
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "vis_1"
+              ]
+            ]
+          },
+          "GOLEM": {
+            "TP": 9,
+            "FP": 0,
+            "FN": 23,
+            "SHD": 23,
+            "F1": 0.43902439024390244,
+            "F1_exact": "18/41",
+            "edges": [
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ]
+            ]
+          },
+          "MuDo_CoM": {
+            "TP": 29,
+            "FP": 57,
+            "FN": 3,
+            "SHD": 60,
+            "F1": 0.4915254237288136,
+            "F1_exact": "29/59",
+            "edges": [
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_11",
+                "angle_1"
+              ],
+              [
+                "l_11",
+                "angle_2"
+              ],
+              [
+                "l_11",
+                "current"
+              ],
+              [
+                "l_11",
+                "ir_1"
+              ],
+              [
+                "l_11",
+                "ir_2"
+              ],
+              [
+                "l_11",
+                "ir_3"
+              ],
+              [
+                "l_11",
+                "vis_1"
+              ],
+              [
+                "l_11",
+                "vis_2"
+              ],
+              [
+                "l_11",
+                "vis_3"
+              ],
+              [
+                "l_12",
+                "angle_1"
+              ],
+              [
+                "l_12",
+                "angle_2"
+              ],
+              [
+                "l_12",
+                "current"
+              ],
+              [
+                "l_12",
+                "ir_1"
+              ],
+              [
+                "l_12",
+                "ir_2"
+              ],
+              [
+                "l_12",
+                "ir_3"
+              ],
+              [
+                "l_12",
+                "vis_1"
+              ],
+              [
+                "l_12",
+                "vis_2"
+              ],
+              [
+                "l_12",
+                "vis_3"
+              ],
+              [
+                "l_21",
+                "angle_1"
+              ],
+              [
+                "l_21",
+                "angle_2"
+              ],
+              [
+                "l_21",
+                "current"
+              ],
+              [
+                "l_21",
+                "ir_1"
+              ],
+              [
+                "l_21",
+                "ir_2"
+              ],
+              [
+                "l_21",
+                "ir_3"
+              ],
+              [
+                "l_21",
+                "vis_1"
+              ],
+              [
+                "l_21",
+                "vis_2"
+              ],
+              [
+                "l_22",
+                "angle_1"
+              ],
+              [
+                "l_22",
+                "angle_2"
+              ],
+              [
+                "l_22",
+                "current"
+              ],
+              [
+                "l_22",
+                "ir_1"
+              ],
+              [
+                "l_22",
+                "ir_2"
+              ],
+              [
+                "l_22",
+                "ir_3"
+              ],
+              [
+                "l_22",
+                "vis_1"
+              ],
+              [
+                "l_22",
+                "vis_2"
+              ],
+              [
+                "l_22",
+                "vis_3"
+              ],
+              [
+                "l_31",
+                "angle_1"
+              ],
+              [
+                "l_31",
+                "angle_2"
+              ],
+              [
+                "l_31",
+                "current"
+              ],
+              [
+                "l_31",
+                "ir_1"
+              ],
+              [
+                "l_31",
+                "ir_2"
+              ],
+              [
+                "l_31",
+                "ir_3"
+              ],
+              [
+                "l_31",
+                "vis_1"
+              ],
+              [
+                "l_31",
+                "vis_2"
+              ],
+              [
+                "l_31",
+                "vis_3"
+              ],
+              [
+                "l_32",
+                "angle_1"
+              ],
+              [
+                "l_32",
+                "angle_2"
+              ],
+              [
+                "l_32",
+                "current"
+              ],
+              [
+                "l_32",
+                "ir_1"
+              ],
+              [
+                "l_32",
+                "ir_2"
+              ],
+              [
+                "l_32",
+                "ir_3"
+              ],
+              [
+                "l_32",
+                "vis_1"
+              ],
+              [
+                "l_32",
+                "vis_2"
+              ],
+              [
+                "l_32",
+                "vis_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "angle_2"
+              ],
+              [
+                "pol_1",
+                "current"
+              ],
+              [
+                "pol_1",
+                "ir_1"
+              ],
+              [
+                "pol_1",
+                "ir_2"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_1"
+              ],
+              [
+                "pol_1",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "current"
+              ],
+              [
+                "pol_2",
+                "ir_1"
+              ],
+              [
+                "pol_2",
+                "ir_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_1"
+              ],
+              [
+                "pol_2",
+                "vis_2"
+              ],
+              [
+                "red",
+                "angle_1"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "WVM_author": {
+            "TP": 17,
+            "FP": 7,
+            "FN": 15,
+            "SHD": 22,
+            "F1": 0.6071428571428571,
+            "F1_exact": "17/28",
+            "edges": [
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_12",
+                "angle_2"
+              ],
+              [
+                "l_22",
+                "angle_2"
+              ],
+              [
+                "l_31",
+                "angle_1"
+              ],
+              [
+                "l_32",
+                "angle_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "red",
+                "angle_1"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "row_estimator": {
+            "TP": 23,
+            "FP": 0,
+            "FN": 9,
+            "SHD": 9,
+            "F1": 0.8363636363636363,
+            "F1_exact": "46/55",
+            "edges": [
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "l_21",
+                "ir_2"
+              ],
+              [
+                "l_31",
+                "ir_3"
+              ],
+              [
+                "l_32",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          }
+        },
+        "strongest_baseline": "GIES",
+        "gain_pp": 6.713286713286704
+      },
+      "wind": {
+        "scores": {
+          "PC": {
+            "TP": 26,
+            "FP": 34,
+            "FN": 16,
+            "SHD": 50,
+            "F1": 0.5098039215686274,
+            "F1_exact": "26/51",
+            "edges": [
+              [
+                "hatch",
+                "current_out"
+              ],
+              [
+                "hatch",
+                "pressure_ambient"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_ambient"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "signal_2"
+              ],
+              [
+                "osr_1",
+                "signal_1"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_ambient",
+                "pressure_downwind"
+              ],
+              [
+                "osr_ambient",
+                "pressure_intake"
+              ],
+              [
+                "osr_ambient",
+                "pressure_upwind"
+              ],
+              [
+                "osr_downwind",
+                "mic"
+              ],
+              [
+                "osr_in",
+                "current_in"
+              ],
+              [
+                "osr_intake",
+                "mic"
+              ],
+              [
+                "osr_intake",
+                "pressure_downwind"
+              ],
+              [
+                "osr_intake",
+                "pressure_intake"
+              ],
+              [
+                "osr_out",
+                "current_in"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "osr_out",
+                "pressure_downwind"
+              ],
+              [
+                "osr_out",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "rpm_out"
+              ],
+              [
+                "osr_upwind",
+                "mic"
+              ],
+              [
+                "osr_upwind",
+                "pressure_ambient"
+              ],
+              [
+                "osr_upwind",
+                "pressure_upwind"
+              ],
+              [
+                "pot_1",
+                "rpm_in"
+              ],
+              [
+                "pot_1",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "rpm_in"
+              ],
+              [
+                "pot_2",
+                "rpm_out"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "mic"
+              ],
+              [
+                "res_in",
+                "rpm_in"
+              ],
+              [
+                "res_in",
+                "rpm_out"
+              ],
+              [
+                "res_out",
+                "pressure_downwind"
+              ],
+              [
+                "res_out",
+                "rpm_in"
+              ],
+              [
+                "res_out",
+                "rpm_out"
+              ],
+              [
+                "v_1",
+                "rpm_in"
+              ],
+              [
+                "v_1",
+                "rpm_out"
+              ],
+              [
+                "v_2",
+                "rpm_in"
+              ],
+              [
+                "v_2",
+                "rpm_out"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_in",
+                "pressure_upwind"
+              ],
+              [
+                "v_in",
+                "rpm_in"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_mic",
+                "rpm_in"
+              ],
+              [
+                "v_mic",
+                "rpm_out"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ],
+              [
+                "v_out",
+                "pressure_ambient"
+              ],
+              [
+                "v_out",
+                "rpm_out"
+              ]
+            ]
+          },
+          "GES": {
+            "TP": 36,
+            "FP": 87,
+            "FN": 6,
+            "SHD": 93,
+            "F1": 0.43636363636363634,
+            "F1_exact": "24/55",
+            "edges": [
+              [
+                "hatch",
+                "current_in"
+              ],
+              [
+                "hatch",
+                "current_out"
+              ],
+              [
+                "hatch",
+                "pressure_ambient"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_out"
+              ],
+              [
+                "hatch",
+                "signal_1"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "current_out"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_ambient"
+              ],
+              [
+                "load_in",
+                "pressure_downwind"
+              ],
+              [
+                "load_in",
+                "pressure_intake"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "pressure_ambient"
+              ],
+              [
+                "load_out",
+                "pressure_downwind"
+              ],
+              [
+                "load_out",
+                "pressure_upwind"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "signal_2"
+              ],
+              [
+                "osr_1",
+                "pressure_intake"
+              ],
+              [
+                "osr_1",
+                "signal_1"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "current_in"
+              ],
+              [
+                "osr_ambient",
+                "current_out"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_ambient",
+                "pressure_downwind"
+              ],
+              [
+                "osr_ambient",
+                "pressure_intake"
+              ],
+              [
+                "osr_ambient",
+                "pressure_upwind"
+              ],
+              [
+                "osr_ambient",
+                "rpm_in"
+              ],
+              [
+                "osr_ambient",
+                "rpm_out"
+              ],
+              [
+                "osr_downwind",
+                "pressure_ambient"
+              ],
+              [
+                "osr_downwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_downwind",
+                "pressure_upwind"
+              ],
+              [
+                "osr_downwind",
+                "rpm_in"
+              ],
+              [
+                "osr_downwind",
+                "rpm_out"
+              ],
+              [
+                "osr_in",
+                "current_in"
+              ],
+              [
+                "osr_in",
+                "current_out"
+              ],
+              [
+                "osr_in",
+                "pressure_ambient"
+              ],
+              [
+                "osr_in",
+                "pressure_intake"
+              ],
+              [
+                "osr_in",
+                "pressure_upwind"
+              ],
+              [
+                "osr_in",
+                "rpm_in"
+              ],
+              [
+                "osr_in",
+                "rpm_out"
+              ],
+              [
+                "osr_intake",
+                "pressure_ambient"
+              ],
+              [
+                "osr_intake",
+                "pressure_upwind"
+              ],
+              [
+                "osr_intake",
+                "rpm_in"
+              ],
+              [
+                "osr_intake",
+                "rpm_out"
+              ],
+              [
+                "osr_mic",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "current_in"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "osr_out",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "pressure_downwind"
+              ],
+              [
+                "osr_out",
+                "pressure_intake"
+              ],
+              [
+                "osr_out",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "rpm_in"
+              ],
+              [
+                "osr_out",
+                "rpm_out"
+              ],
+              [
+                "osr_upwind",
+                "pressure_ambient"
+              ],
+              [
+                "osr_upwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_upwind",
+                "pressure_intake"
+              ],
+              [
+                "osr_upwind",
+                "pressure_upwind"
+              ],
+              [
+                "osr_upwind",
+                "rpm_in"
+              ],
+              [
+                "osr_upwind",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "current_in"
+              ],
+              [
+                "pot_1",
+                "pressure_ambient"
+              ],
+              [
+                "pot_1",
+                "pressure_downwind"
+              ],
+              [
+                "pot_1",
+                "rpm_in"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "current_out"
+              ],
+              [
+                "pot_2",
+                "mic"
+              ],
+              [
+                "pot_2",
+                "pressure_ambient"
+              ],
+              [
+                "pot_2",
+                "pressure_intake"
+              ],
+              [
+                "pot_2",
+                "pressure_upwind"
+              ],
+              [
+                "pot_2",
+                "rpm_in"
+              ],
+              [
+                "pot_2",
+                "rpm_out"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "current_in"
+              ],
+              [
+                "res_in",
+                "current_out"
+              ],
+              [
+                "res_in",
+                "pressure_ambient"
+              ],
+              [
+                "res_in",
+                "pressure_downwind"
+              ],
+              [
+                "res_in",
+                "pressure_intake"
+              ],
+              [
+                "res_in",
+                "pressure_upwind"
+              ],
+              [
+                "res_in",
+                "rpm_in"
+              ],
+              [
+                "res_in",
+                "rpm_out"
+              ],
+              [
+                "res_out",
+                "current_in"
+              ],
+              [
+                "res_out",
+                "current_out"
+              ],
+              [
+                "res_out",
+                "pressure_ambient"
+              ],
+              [
+                "res_out",
+                "pressure_intake"
+              ],
+              [
+                "res_out",
+                "pressure_upwind"
+              ],
+              [
+                "res_out",
+                "rpm_in"
+              ],
+              [
+                "res_out",
+                "rpm_out"
+              ],
+              [
+                "v_1",
+                "pressure_ambient"
+              ],
+              [
+                "v_1",
+                "pressure_intake"
+              ],
+              [
+                "v_1",
+                "pressure_upwind"
+              ],
+              [
+                "v_1",
+                "rpm_in"
+              ],
+              [
+                "v_1",
+                "signal_1"
+              ],
+              [
+                "v_2",
+                "pressure_ambient"
+              ],
+              [
+                "v_2",
+                "pressure_intake"
+              ],
+              [
+                "v_2",
+                "rpm_in"
+              ],
+              [
+                "v_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_in",
+                "current_out"
+              ],
+              [
+                "v_in",
+                "pressure_ambient"
+              ],
+              [
+                "v_in",
+                "pressure_intake"
+              ],
+              [
+                "v_in",
+                "pressure_upwind"
+              ],
+              [
+                "v_in",
+                "rpm_in"
+              ],
+              [
+                "v_in",
+                "rpm_out"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_mic",
+                "pressure_ambient"
+              ],
+              [
+                "v_mic",
+                "pressure_intake"
+              ],
+              [
+                "v_mic",
+                "rpm_in"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ],
+              [
+                "v_out",
+                "pressure_ambient"
+              ],
+              [
+                "v_out",
+                "pressure_downwind"
+              ],
+              [
+                "v_out",
+                "pressure_intake"
+              ],
+              [
+                "v_out",
+                "pressure_upwind"
+              ],
+              [
+                "v_out",
+                "rpm_out"
+              ]
+            ]
+          },
+          "GIES": {
+            "TP": 30,
+            "FP": 2,
+            "FN": 12,
+            "SHD": 14,
+            "F1": 0.8108108108108109,
+            "F1_exact": "30/37",
+            "edges": [
+              [
+                "hatch",
+                "current_out"
+              ],
+              [
+                "hatch",
+                "mic"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "current_out"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_downwind"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "pressure_downwind"
+              ],
+              [
+                "load_out",
+                "pressure_intake"
+              ],
+              [
+                "load_out",
+                "pressure_upwind"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "osr_1",
+                "signal_1"
+              ],
+              [
+                "osr_1",
+                "signal_2"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "pot_1",
+                "mic"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ]
+            ]
+          },
+          "Gaussian_BIC_root_domain": {
+            "TP": 36,
+            "FP": 109,
+            "FN": 6,
+            "SHD": 115,
+            "F1": 0.3850267379679144,
+            "F1_exact": "72/187",
+            "edges": [
+              [
+                "hatch",
+                "current_in"
+              ],
+              [
+                "hatch",
+                "current_out"
+              ],
+              [
+                "hatch",
+                "pressure_ambient"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_in"
+              ],
+              [
+                "hatch",
+                "rpm_out"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "current_out"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_ambient"
+              ],
+              [
+                "load_in",
+                "pressure_downwind"
+              ],
+              [
+                "load_in",
+                "pressure_intake"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "pressure_ambient"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "signal_2"
+              ],
+              [
+                "osr_1",
+                "signal_1"
+              ],
+              [
+                "osr_1",
+                "signal_2"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "current_in"
+              ],
+              [
+                "osr_ambient",
+                "current_out"
+              ],
+              [
+                "osr_ambient",
+                "mic"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_ambient",
+                "pressure_downwind"
+              ],
+              [
+                "osr_ambient",
+                "pressure_intake"
+              ],
+              [
+                "osr_ambient",
+                "pressure_upwind"
+              ],
+              [
+                "osr_ambient",
+                "rpm_in"
+              ],
+              [
+                "osr_ambient",
+                "rpm_out"
+              ],
+              [
+                "osr_downwind",
+                "pressure_ambient"
+              ],
+              [
+                "osr_downwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_downwind",
+                "pressure_intake"
+              ],
+              [
+                "osr_downwind",
+                "pressure_upwind"
+              ],
+              [
+                "osr_downwind",
+                "rpm_in"
+              ],
+              [
+                "osr_downwind",
+                "rpm_out"
+              ],
+              [
+                "osr_in",
+                "current_in"
+              ],
+              [
+                "osr_in",
+                "current_out"
+              ],
+              [
+                "osr_in",
+                "pressure_ambient"
+              ],
+              [
+                "osr_in",
+                "pressure_downwind"
+              ],
+              [
+                "osr_in",
+                "pressure_intake"
+              ],
+              [
+                "osr_in",
+                "pressure_upwind"
+              ],
+              [
+                "osr_in",
+                "rpm_in"
+              ],
+              [
+                "osr_in",
+                "rpm_out"
+              ],
+              [
+                "osr_intake",
+                "current_out"
+              ],
+              [
+                "osr_intake",
+                "pressure_ambient"
+              ],
+              [
+                "osr_intake",
+                "pressure_downwind"
+              ],
+              [
+                "osr_intake",
+                "pressure_intake"
+              ],
+              [
+                "osr_intake",
+                "pressure_upwind"
+              ],
+              [
+                "osr_intake",
+                "rpm_in"
+              ],
+              [
+                "osr_intake",
+                "rpm_out"
+              ],
+              [
+                "osr_mic",
+                "signal_2"
+              ],
+              [
+                "osr_out",
+                "current_in"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "osr_out",
+                "mic"
+              ],
+              [
+                "osr_out",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "pressure_downwind"
+              ],
+              [
+                "osr_out",
+                "pressure_intake"
+              ],
+              [
+                "osr_out",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "rpm_in"
+              ],
+              [
+                "osr_out",
+                "rpm_out"
+              ],
+              [
+                "osr_upwind",
+                "current_in"
+              ],
+              [
+                "osr_upwind",
+                "mic"
+              ],
+              [
+                "osr_upwind",
+                "pressure_ambient"
+              ],
+              [
+                "osr_upwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_upwind",
+                "pressure_intake"
+              ],
+              [
+                "osr_upwind",
+                "pressure_upwind"
+              ],
+              [
+                "osr_upwind",
+                "rpm_in"
+              ],
+              [
+                "osr_upwind",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "current_in"
+              ],
+              [
+                "pot_1",
+                "pressure_ambient"
+              ],
+              [
+                "pot_1",
+                "pressure_downwind"
+              ],
+              [
+                "pot_1",
+                "pressure_intake"
+              ],
+              [
+                "pot_1",
+                "pressure_upwind"
+              ],
+              [
+                "pot_1",
+                "rpm_in"
+              ],
+              [
+                "pot_1",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "current_out"
+              ],
+              [
+                "pot_2",
+                "mic"
+              ],
+              [
+                "pot_2",
+                "pressure_ambient"
+              ],
+              [
+                "pot_2",
+                "pressure_downwind"
+              ],
+              [
+                "pot_2",
+                "pressure_intake"
+              ],
+              [
+                "pot_2",
+                "pressure_upwind"
+              ],
+              [
+                "pot_2",
+                "rpm_in"
+              ],
+              [
+                "pot_2",
+                "rpm_out"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "current_in"
+              ],
+              [
+                "res_in",
+                "current_out"
+              ],
+              [
+                "res_in",
+                "pressure_ambient"
+              ],
+              [
+                "res_in",
+                "pressure_downwind"
+              ],
+              [
+                "res_in",
+                "pressure_intake"
+              ],
+              [
+                "res_in",
+                "pressure_upwind"
+              ],
+              [
+                "res_in",
+                "rpm_in"
+              ],
+              [
+                "res_in",
+                "rpm_out"
+              ],
+              [
+                "res_out",
+                "current_in"
+              ],
+              [
+                "res_out",
+                "current_out"
+              ],
+              [
+                "res_out",
+                "pressure_ambient"
+              ],
+              [
+                "res_out",
+                "pressure_downwind"
+              ],
+              [
+                "res_out",
+                "pressure_intake"
+              ],
+              [
+                "res_out",
+                "pressure_upwind"
+              ],
+              [
+                "res_out",
+                "rpm_in"
+              ],
+              [
+                "res_out",
+                "rpm_out"
+              ],
+              [
+                "v_1",
+                "pressure_ambient"
+              ],
+              [
+                "v_1",
+                "pressure_downwind"
+              ],
+              [
+                "v_1",
+                "pressure_intake"
+              ],
+              [
+                "v_1",
+                "pressure_upwind"
+              ],
+              [
+                "v_1",
+                "rpm_in"
+              ],
+              [
+                "v_1",
+                "rpm_out"
+              ],
+              [
+                "v_1",
+                "signal_1"
+              ],
+              [
+                "v_2",
+                "pressure_ambient"
+              ],
+              [
+                "v_2",
+                "pressure_downwind"
+              ],
+              [
+                "v_2",
+                "pressure_intake"
+              ],
+              [
+                "v_2",
+                "pressure_upwind"
+              ],
+              [
+                "v_2",
+                "rpm_in"
+              ],
+              [
+                "v_2",
+                "rpm_out"
+              ],
+              [
+                "v_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_in",
+                "current_out"
+              ],
+              [
+                "v_in",
+                "pressure_ambient"
+              ],
+              [
+                "v_in",
+                "pressure_downwind"
+              ],
+              [
+                "v_in",
+                "pressure_intake"
+              ],
+              [
+                "v_in",
+                "pressure_upwind"
+              ],
+              [
+                "v_in",
+                "rpm_in"
+              ],
+              [
+                "v_in",
+                "rpm_out"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_mic",
+                "pressure_ambient"
+              ],
+              [
+                "v_mic",
+                "pressure_downwind"
+              ],
+              [
+                "v_mic",
+                "pressure_intake"
+              ],
+              [
+                "v_mic",
+                "pressure_upwind"
+              ],
+              [
+                "v_mic",
+                "rpm_in"
+              ],
+              [
+                "v_mic",
+                "rpm_out"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ],
+              [
+                "v_out",
+                "pressure_ambient"
+              ],
+              [
+                "v_out",
+                "pressure_downwind"
+              ],
+              [
+                "v_out",
+                "pressure_intake"
+              ],
+              [
+                "v_out",
+                "pressure_upwind"
+              ],
+              [
+                "v_out",
+                "rpm_in"
+              ],
+              [
+                "v_out",
+                "rpm_out"
+              ]
+            ]
+          },
+          "DirectLiNGAM": {
+            "TP": 37,
+            "FP": 81,
+            "FN": 5,
+            "SHD": 86,
+            "F1": 0.4625,
+            "F1_exact": "37/80",
+            "edges": [
+              [
+                "hatch",
+                "current_in"
+              ],
+              [
+                "hatch",
+                "current_out"
+              ],
+              [
+                "hatch",
+                "mic"
+              ],
+              [
+                "hatch",
+                "pressure_ambient"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_in"
+              ],
+              [
+                "hatch",
+                "rpm_out"
+              ],
+              [
+                "hatch",
+                "signal_1"
+              ],
+              [
+                "hatch",
+                "signal_2"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "current_out"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_ambient"
+              ],
+              [
+                "load_in",
+                "pressure_downwind"
+              ],
+              [
+                "load_in",
+                "pressure_intake"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_in",
+                "signal_2"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "pressure_ambient"
+              ],
+              [
+                "load_out",
+                "pressure_downwind"
+              ],
+              [
+                "load_out",
+                "pressure_intake"
+              ],
+              [
+                "load_out",
+                "pressure_upwind"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "osr_1",
+                "signal_1"
+              ],
+              [
+                "osr_1",
+                "signal_2"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "current_in"
+              ],
+              [
+                "osr_ambient",
+                "current_out"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_ambient",
+                "pressure_downwind"
+              ],
+              [
+                "osr_ambient",
+                "pressure_intake"
+              ],
+              [
+                "osr_ambient",
+                "pressure_upwind"
+              ],
+              [
+                "osr_ambient",
+                "rpm_in"
+              ],
+              [
+                "osr_downwind",
+                "current_in"
+              ],
+              [
+                "osr_downwind",
+                "current_out"
+              ],
+              [
+                "osr_downwind",
+                "mic"
+              ],
+              [
+                "osr_downwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_downwind",
+                "rpm_out"
+              ],
+              [
+                "osr_in",
+                "current_out"
+              ],
+              [
+                "osr_in",
+                "mic"
+              ],
+              [
+                "osr_in",
+                "pressure_ambient"
+              ],
+              [
+                "osr_in",
+                "pressure_downwind"
+              ],
+              [
+                "osr_in",
+                "pressure_upwind"
+              ],
+              [
+                "osr_in",
+                "rpm_out"
+              ],
+              [
+                "osr_intake",
+                "current_in"
+              ],
+              [
+                "osr_intake",
+                "current_out"
+              ],
+              [
+                "osr_intake",
+                "mic"
+              ],
+              [
+                "osr_intake",
+                "pressure_downwind"
+              ],
+              [
+                "osr_intake",
+                "rpm_in"
+              ],
+              [
+                "osr_intake",
+                "rpm_out"
+              ],
+              [
+                "osr_mic",
+                "signal_2"
+              ],
+              [
+                "osr_out",
+                "current_in"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "osr_out",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "pressure_downwind"
+              ],
+              [
+                "osr_out",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "rpm_in"
+              ],
+              [
+                "osr_upwind",
+                "current_in"
+              ],
+              [
+                "osr_upwind",
+                "current_out"
+              ],
+              [
+                "osr_upwind",
+                "mic"
+              ],
+              [
+                "osr_upwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_upwind",
+                "pressure_intake"
+              ],
+              [
+                "osr_upwind",
+                "pressure_upwind"
+              ],
+              [
+                "osr_upwind",
+                "rpm_in"
+              ],
+              [
+                "pot_1",
+                "current_in"
+              ],
+              [
+                "pot_1",
+                "pressure_ambient"
+              ],
+              [
+                "pot_1",
+                "pressure_downwind"
+              ],
+              [
+                "pot_1",
+                "rpm_in"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "current_in"
+              ],
+              [
+                "pot_2",
+                "mic"
+              ],
+              [
+                "pot_2",
+                "pressure_downwind"
+              ],
+              [
+                "pot_2",
+                "rpm_in"
+              ],
+              [
+                "pot_2",
+                "rpm_out"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "current_out"
+              ],
+              [
+                "res_in",
+                "mic"
+              ],
+              [
+                "res_in",
+                "pressure_downwind"
+              ],
+              [
+                "res_in",
+                "pressure_upwind"
+              ],
+              [
+                "res_in",
+                "rpm_in"
+              ],
+              [
+                "res_in",
+                "rpm_out"
+              ],
+              [
+                "res_out",
+                "current_in"
+              ],
+              [
+                "res_out",
+                "current_out"
+              ],
+              [
+                "res_out",
+                "mic"
+              ],
+              [
+                "res_out",
+                "pressure_downwind"
+              ],
+              [
+                "res_out",
+                "pressure_upwind"
+              ],
+              [
+                "res_out",
+                "rpm_in"
+              ],
+              [
+                "res_out",
+                "rpm_out"
+              ],
+              [
+                "v_1",
+                "mic"
+              ],
+              [
+                "v_1",
+                "pressure_downwind"
+              ],
+              [
+                "v_1",
+                "rpm_in"
+              ],
+              [
+                "v_1",
+                "signal_1"
+              ],
+              [
+                "v_2",
+                "current_in"
+              ],
+              [
+                "v_2",
+                "mic"
+              ],
+              [
+                "v_2",
+                "pressure_downwind"
+              ],
+              [
+                "v_2",
+                "rpm_in"
+              ],
+              [
+                "v_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_in",
+                "mic"
+              ],
+              [
+                "v_in",
+                "pressure_downwind"
+              ],
+              [
+                "v_in",
+                "rpm_in"
+              ],
+              [
+                "v_in",
+                "rpm_out"
+              ],
+              [
+                "v_mic",
+                "current_in"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_mic",
+                "pressure_downwind"
+              ],
+              [
+                "v_mic",
+                "rpm_in"
+              ],
+              [
+                "v_out",
+                "current_in"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ],
+              [
+                "v_out",
+                "mic"
+              ],
+              [
+                "v_out",
+                "pressure_downwind"
+              ],
+              [
+                "v_out",
+                "rpm_in"
+              ]
+            ]
+          },
+          "NOTEARS": {
+            "TP": 7,
+            "FP": 0,
+            "FN": 35,
+            "SHD": 35,
+            "F1": 0.2857142857142857,
+            "F1_exact": "2/7",
+            "edges": [
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ]
+            ]
+          },
+          "DAGMA": {
+            "TP": 11,
+            "FP": 3,
+            "FN": 31,
+            "SHD": 34,
+            "F1": 0.39285714285714285,
+            "F1_exact": "11/28",
+            "edges": [
+              [
+                "hatch",
+                "rpm_out"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "pressure_intake"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "pressure_downwind"
+              ],
+              [
+                "pot_2",
+                "rpm_in"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ]
+            ]
+          },
+          "GOLEM": {
+            "TP": 14,
+            "FP": 28,
+            "FN": 28,
+            "SHD": 56,
+            "F1": 0.3333333333333333,
+            "F1_exact": "1/3",
+            "edges": [
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "osr_1",
+                "mic"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "mic"
+              ],
+              [
+                "osr_in",
+                "mic"
+              ],
+              [
+                "osr_intake",
+                "mic"
+              ],
+              [
+                "osr_intake",
+                "pressure_intake"
+              ],
+              [
+                "osr_mic",
+                "signal_2"
+              ],
+              [
+                "osr_out",
+                "pressure_ambient"
+              ],
+              [
+                "pot_1",
+                "current_in"
+              ],
+              [
+                "pot_1",
+                "current_out"
+              ],
+              [
+                "pot_1",
+                "pressure_downwind"
+              ],
+              [
+                "pot_1",
+                "pressure_intake"
+              ],
+              [
+                "pot_1",
+                "pressure_upwind"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "current_out"
+              ],
+              [
+                "pot_2",
+                "mic"
+              ],
+              [
+                "pot_2",
+                "pressure_downwind"
+              ],
+              [
+                "pot_2",
+                "rpm_out"
+              ],
+              [
+                "pot_2",
+                "signal_1"
+              ],
+              [
+                "res_out",
+                "pressure_upwind"
+              ],
+              [
+                "v_1",
+                "pressure_ambient"
+              ],
+              [
+                "v_1",
+                "rpm_in"
+              ],
+              [
+                "v_1",
+                "signal_2"
+              ],
+              [
+                "v_2",
+                "current_out"
+              ],
+              [
+                "v_2",
+                "pressure_intake"
+              ],
+              [
+                "v_2",
+                "rpm_out"
+              ],
+              [
+                "v_2",
+                "signal_1"
+              ],
+              [
+                "v_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_in",
+                "rpm_in"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ],
+              [
+                "v_out",
+                "rpm_in"
+              ],
+              [
+                "v_out",
+                "rpm_out"
+              ],
+              [
+                "v_out",
+                "signal_2"
+              ]
+            ]
+          },
+          "MuDo_CoM": {
+            "TP": 29,
+            "FP": 94,
+            "FN": 13,
+            "SHD": 107,
+            "F1": 0.3515151515151515,
+            "F1_exact": "58/165",
+            "edges": [
+              [
+                "hatch",
+                "mic"
+              ],
+              [
+                "hatch",
+                "pressure_ambient"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "current_out"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_ambient"
+              ],
+              [
+                "load_in",
+                "pressure_downwind"
+              ],
+              [
+                "load_in",
+                "pressure_intake"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_in",
+                "signal_1"
+              ],
+              [
+                "load_in",
+                "signal_2"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "pressure_ambient"
+              ],
+              [
+                "load_out",
+                "pressure_downwind"
+              ],
+              [
+                "load_out",
+                "pressure_intake"
+              ],
+              [
+                "load_out",
+                "pressure_upwind"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "osr_1",
+                "current_in"
+              ],
+              [
+                "osr_1",
+                "pressure_ambient"
+              ],
+              [
+                "osr_1",
+                "pressure_downwind"
+              ],
+              [
+                "osr_1",
+                "pressure_intake"
+              ],
+              [
+                "osr_1",
+                "pressure_upwind"
+              ],
+              [
+                "osr_1",
+                "rpm_in"
+              ],
+              [
+                "osr_1",
+                "rpm_out"
+              ],
+              [
+                "osr_2",
+                "pressure_ambient"
+              ],
+              [
+                "osr_2",
+                "pressure_downwind"
+              ],
+              [
+                "osr_2",
+                "pressure_intake"
+              ],
+              [
+                "osr_2",
+                "pressure_upwind"
+              ],
+              [
+                "osr_ambient",
+                "current_in"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_ambient",
+                "pressure_downwind"
+              ],
+              [
+                "osr_ambient",
+                "pressure_intake"
+              ],
+              [
+                "osr_ambient",
+                "pressure_upwind"
+              ],
+              [
+                "osr_ambient",
+                "rpm_in"
+              ],
+              [
+                "osr_ambient",
+                "rpm_out"
+              ],
+              [
+                "osr_downwind",
+                "current_in"
+              ],
+              [
+                "osr_downwind",
+                "pressure_ambient"
+              ],
+              [
+                "osr_downwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_downwind",
+                "pressure_intake"
+              ],
+              [
+                "osr_downwind",
+                "pressure_upwind"
+              ],
+              [
+                "osr_downwind",
+                "rpm_in"
+              ],
+              [
+                "osr_downwind",
+                "rpm_out"
+              ],
+              [
+                "osr_in",
+                "pressure_ambient"
+              ],
+              [
+                "osr_in",
+                "pressure_downwind"
+              ],
+              [
+                "osr_in",
+                "pressure_intake"
+              ],
+              [
+                "osr_in",
+                "pressure_upwind"
+              ],
+              [
+                "osr_in",
+                "rpm_in"
+              ],
+              [
+                "osr_intake",
+                "current_in"
+              ],
+              [
+                "osr_intake",
+                "current_out"
+              ],
+              [
+                "osr_intake",
+                "pressure_ambient"
+              ],
+              [
+                "osr_intake",
+                "pressure_downwind"
+              ],
+              [
+                "osr_intake",
+                "pressure_intake"
+              ],
+              [
+                "osr_intake",
+                "pressure_upwind"
+              ],
+              [
+                "osr_intake",
+                "rpm_in"
+              ],
+              [
+                "osr_intake",
+                "rpm_out"
+              ],
+              [
+                "osr_mic",
+                "pressure_ambient"
+              ],
+              [
+                "osr_mic",
+                "pressure_downwind"
+              ],
+              [
+                "osr_mic",
+                "pressure_intake"
+              ],
+              [
+                "osr_mic",
+                "pressure_upwind"
+              ],
+              [
+                "osr_mic",
+                "rpm_in"
+              ],
+              [
+                "osr_out",
+                "current_in"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "osr_out",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "pressure_downwind"
+              ],
+              [
+                "osr_out",
+                "pressure_intake"
+              ],
+              [
+                "osr_out",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "rpm_in"
+              ],
+              [
+                "osr_out",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "current_in"
+              ],
+              [
+                "pot_1",
+                "pressure_ambient"
+              ],
+              [
+                "pot_1",
+                "pressure_downwind"
+              ],
+              [
+                "pot_1",
+                "pressure_intake"
+              ],
+              [
+                "pot_1",
+                "pressure_upwind"
+              ],
+              [
+                "pot_1",
+                "rpm_in"
+              ],
+              [
+                "pot_1",
+                "rpm_out"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "current_in"
+              ],
+              [
+                "pot_2",
+                "pressure_ambient"
+              ],
+              [
+                "pot_2",
+                "pressure_downwind"
+              ],
+              [
+                "pot_2",
+                "pressure_intake"
+              ],
+              [
+                "pot_2",
+                "pressure_upwind"
+              ],
+              [
+                "pot_2",
+                "rpm_in"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "pressure_ambient"
+              ],
+              [
+                "res_in",
+                "pressure_downwind"
+              ],
+              [
+                "res_in",
+                "pressure_intake"
+              ],
+              [
+                "res_in",
+                "pressure_upwind"
+              ],
+              [
+                "res_out",
+                "pressure_ambient"
+              ],
+              [
+                "res_out",
+                "pressure_downwind"
+              ],
+              [
+                "res_out",
+                "pressure_intake"
+              ],
+              [
+                "res_out",
+                "pressure_upwind"
+              ],
+              [
+                "v_1",
+                "current_in"
+              ],
+              [
+                "v_1",
+                "pressure_ambient"
+              ],
+              [
+                "v_1",
+                "pressure_downwind"
+              ],
+              [
+                "v_1",
+                "pressure_intake"
+              ],
+              [
+                "v_1",
+                "pressure_upwind"
+              ],
+              [
+                "v_1",
+                "rpm_in"
+              ],
+              [
+                "v_1",
+                "rpm_out"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_in",
+                "current_out"
+              ],
+              [
+                "v_in",
+                "pressure_ambient"
+              ],
+              [
+                "v_in",
+                "pressure_downwind"
+              ],
+              [
+                "v_in",
+                "pressure_intake"
+              ],
+              [
+                "v_in",
+                "pressure_upwind"
+              ],
+              [
+                "v_in",
+                "rpm_in"
+              ],
+              [
+                "v_in",
+                "rpm_out"
+              ],
+              [
+                "v_mic",
+                "current_out"
+              ],
+              [
+                "v_mic",
+                "pressure_ambient"
+              ],
+              [
+                "v_mic",
+                "pressure_downwind"
+              ],
+              [
+                "v_mic",
+                "pressure_intake"
+              ],
+              [
+                "v_mic",
+                "pressure_upwind"
+              ],
+              [
+                "v_mic",
+                "rpm_in"
+              ],
+              [
+                "v_mic",
+                "rpm_out"
+              ]
+            ]
+          },
+          "WVM_author": {
+            "TP": 15,
+            "FP": 45,
+            "FN": 27,
+            "SHD": 72,
+            "F1": 0.29411764705882354,
+            "F1_exact": "5/17",
+            "edges": [
+              [
+                "hatch",
+                "current_in"
+              ],
+              [
+                "hatch",
+                "pressure_ambient"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_out"
+              ],
+              [
+                "hatch",
+                "signal_1"
+              ],
+              [
+                "hatch",
+                "signal_2"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "signal_1"
+              ],
+              [
+                "load_out",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "current_in"
+              ],
+              [
+                "osr_ambient",
+                "current_out"
+              ],
+              [
+                "osr_ambient",
+                "mic"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_ambient",
+                "pressure_downwind"
+              ],
+              [
+                "osr_ambient",
+                "pressure_intake"
+              ],
+              [
+                "osr_ambient",
+                "pressure_upwind"
+              ],
+              [
+                "osr_ambient",
+                "rpm_in"
+              ],
+              [
+                "osr_ambient",
+                "rpm_out"
+              ],
+              [
+                "osr_ambient",
+                "signal_1"
+              ],
+              [
+                "osr_ambient",
+                "signal_2"
+              ],
+              [
+                "osr_in",
+                "pressure_downwind"
+              ],
+              [
+                "osr_in",
+                "pressure_intake"
+              ],
+              [
+                "osr_in",
+                "pressure_upwind"
+              ],
+              [
+                "osr_in",
+                "rpm_in"
+              ],
+              [
+                "osr_in",
+                "rpm_out"
+              ],
+              [
+                "osr_in",
+                "signal_1"
+              ],
+              [
+                "osr_in",
+                "signal_2"
+              ],
+              [
+                "osr_out",
+                "pressure_ambient"
+              ],
+              [
+                "osr_out",
+                "pressure_downwind"
+              ],
+              [
+                "osr_out",
+                "pressure_intake"
+              ],
+              [
+                "osr_out",
+                "pressure_upwind"
+              ],
+              [
+                "osr_out",
+                "rpm_in"
+              ],
+              [
+                "osr_out",
+                "rpm_out"
+              ],
+              [
+                "osr_out",
+                "signal_1"
+              ],
+              [
+                "osr_out",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "pressure_ambient"
+              ],
+              [
+                "res_in",
+                "pressure_downwind"
+              ],
+              [
+                "res_in",
+                "pressure_intake"
+              ],
+              [
+                "res_in",
+                "pressure_upwind"
+              ],
+              [
+                "res_in",
+                "rpm_out"
+              ],
+              [
+                "res_in",
+                "signal_1"
+              ],
+              [
+                "res_in",
+                "signal_2"
+              ],
+              [
+                "res_out",
+                "pressure_ambient"
+              ],
+              [
+                "res_out",
+                "pressure_downwind"
+              ],
+              [
+                "res_out",
+                "pressure_intake"
+              ],
+              [
+                "res_out",
+                "pressure_upwind"
+              ],
+              [
+                "res_out",
+                "rpm_in"
+              ],
+              [
+                "res_out",
+                "signal_1"
+              ],
+              [
+                "res_out",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ]
+            ]
+          },
+          "row_estimator": {
+            "TP": 42,
+            "FP": 0,
+            "FN": 0,
+            "SHD": 0,
+            "F1": 1.0,
+            "F1_exact": "1",
+            "edges": [
+              [
+                "hatch",
+                "mic"
+              ],
+              [
+                "hatch",
+                "pressure_downwind"
+              ],
+              [
+                "hatch",
+                "pressure_intake"
+              ],
+              [
+                "hatch",
+                "pressure_upwind"
+              ],
+              [
+                "hatch",
+                "rpm_in"
+              ],
+              [
+                "hatch",
+                "rpm_out"
+              ],
+              [
+                "load_in",
+                "current_in"
+              ],
+              [
+                "load_in",
+                "current_out"
+              ],
+              [
+                "load_in",
+                "mic"
+              ],
+              [
+                "load_in",
+                "pressure_downwind"
+              ],
+              [
+                "load_in",
+                "pressure_intake"
+              ],
+              [
+                "load_in",
+                "pressure_upwind"
+              ],
+              [
+                "load_in",
+                "rpm_in"
+              ],
+              [
+                "load_in",
+                "rpm_out"
+              ],
+              [
+                "load_out",
+                "current_in"
+              ],
+              [
+                "load_out",
+                "current_out"
+              ],
+              [
+                "load_out",
+                "mic"
+              ],
+              [
+                "load_out",
+                "pressure_downwind"
+              ],
+              [
+                "load_out",
+                "pressure_intake"
+              ],
+              [
+                "load_out",
+                "pressure_upwind"
+              ],
+              [
+                "load_out",
+                "rpm_in"
+              ],
+              [
+                "load_out",
+                "rpm_out"
+              ],
+              [
+                "osr_1",
+                "signal_1"
+              ],
+              [
+                "osr_2",
+                "signal_2"
+              ],
+              [
+                "osr_ambient",
+                "pressure_ambient"
+              ],
+              [
+                "osr_downwind",
+                "pressure_downwind"
+              ],
+              [
+                "osr_in",
+                "current_in"
+              ],
+              [
+                "osr_intake",
+                "pressure_intake"
+              ],
+              [
+                "osr_mic",
+                "mic"
+              ],
+              [
+                "osr_out",
+                "current_out"
+              ],
+              [
+                "osr_upwind",
+                "pressure_upwind"
+              ],
+              [
+                "pot_1",
+                "mic"
+              ],
+              [
+                "pot_1",
+                "signal_1"
+              ],
+              [
+                "pot_1",
+                "signal_2"
+              ],
+              [
+                "pot_2",
+                "signal_2"
+              ],
+              [
+                "res_in",
+                "rpm_in"
+              ],
+              [
+                "res_out",
+                "rpm_out"
+              ],
+              [
+                "v_1",
+                "signal_1"
+              ],
+              [
+                "v_2",
+                "signal_2"
+              ],
+              [
+                "v_in",
+                "current_in"
+              ],
+              [
+                "v_mic",
+                "mic"
+              ],
+              [
+                "v_out",
+                "current_out"
+              ]
+            ]
+          }
+        },
+        "strongest_baseline": "GIES",
+        "gain_pp": 18.918918918918916
+      },
+      "camera": {
+        "scores": {
+          "PC": {
+            "TP": 19,
+            "FP": 3,
+            "FN": 13,
+            "SHD": 16,
+            "F1": 0.7037037037037037,
+            "F1_exact": "19/27",
+            "edges": [
+              [
+                "blue",
+                "angle_1"
+              ],
+              [
+                "blue",
+                "current"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "angle_2"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "vis_1"
+              ]
+            ]
+          },
+          "GES": {
+            "TP": 28,
+            "FP": 4,
+            "FN": 4,
+            "SHD": 8,
+            "F1": 0.875,
+            "F1_exact": "7/8",
+            "edges": [
+              [
+                "blue",
+                "im"
+              ],
+              [
+                "blue",
+                "ir_1"
+              ],
+              [
+                "blue",
+                "ir_2"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "blue",
+                "vis_3"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "angle_2"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_2"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "GIES": {
+            "TP": 32,
+            "FP": 1,
+            "FN": 0,
+            "SHD": 1,
+            "F1": 0.9846153846153847,
+            "F1_exact": "64/65",
+            "edges": [
+              [
+                "blue",
+                "current"
+              ],
+              [
+                "blue",
+                "im"
+              ],
+              [
+                "blue",
+                "ir_1"
+              ],
+              [
+                "blue",
+                "ir_2"
+              ],
+              [
+                "blue",
+                "ir_3"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "blue",
+                "vis_3"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "Gaussian_BIC_root_domain": {
+            "TP": 32,
+            "FP": 3,
+            "FN": 0,
+            "SHD": 3,
+            "F1": 0.9552238805970149,
+            "F1_exact": "64/67",
+            "edges": [
+              [
+                "blue",
+                "current"
+              ],
+              [
+                "blue",
+                "im"
+              ],
+              [
+                "blue",
+                "ir_1"
+              ],
+              [
+                "blue",
+                "ir_2"
+              ],
+              [
+                "blue",
+                "ir_3"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "blue",
+                "vis_3"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "DirectLiNGAM": {
+            "TP": 27,
+            "FP": 10,
+            "FN": 5,
+            "SHD": 15,
+            "F1": 0.782608695652174,
+            "F1_exact": "18/23",
+            "edges": [
+              [
+                "blue",
+                "angle_2"
+              ],
+              [
+                "blue",
+                "im"
+              ],
+              [
+                "blue",
+                "ir_1"
+              ],
+              [
+                "blue",
+                "ir_2"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "blue",
+                "vis_3"
+              ],
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "angle_2"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_1"
+              ],
+              [
+                "pol_1",
+                "vis_1"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_1"
+              ],
+              [
+                "pol_2",
+                "vis_2"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          },
+          "NOTEARS": {
+            "TP": 10,
+            "FP": 0,
+            "FN": 22,
+            "SHD": 22,
+            "F1": 0.47619047619047616,
+            "F1_exact": "10/21",
+            "edges": [
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ]
+            ]
+          },
+          "DAGMA": {
+            "TP": 12,
+            "FP": 1,
+            "FN": 20,
+            "SHD": 21,
+            "F1": 0.5333333333333333,
+            "F1_exact": "8/15",
+            "edges": [
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ]
+            ]
+          },
+          "GOLEM": {
+            "TP": 12,
+            "FP": 0,
+            "FN": 20,
+            "SHD": 20,
+            "F1": 0.5454545454545454,
+            "F1_exact": "6/11",
+            "edges": [
+              [
+                "blue",
+                "current"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ]
+            ]
+          },
+          "MuDo_CoM": {
+            "TP": 25,
+            "FP": 18,
+            "FN": 7,
+            "SHD": 25,
+            "F1": 0.6666666666666666,
+            "F1_exact": "2/3",
+            "edges": [
+              [
+                "blue",
+                "angle_1"
+              ],
+              [
+                "blue",
+                "angle_2"
+              ],
+              [
+                "blue",
+                "im"
+              ],
+              [
+                "blue",
+                "ir_1"
+              ],
+              [
+                "blue",
+                "ir_2"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "green",
+                "angle_1"
+              ],
+              [
+                "green",
+                "angle_2"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "angle_2"
+              ],
+              [
+                "pol_1",
+                "current"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_1"
+              ],
+              [
+                "pol_1",
+                "ir_2"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_1"
+              ],
+              [
+                "pol_1",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "current"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_1"
+              ],
+              [
+                "pol_2",
+                "ir_2"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_1"
+              ],
+              [
+                "pol_2",
+                "vis_2"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "angle_1"
+              ],
+              [
+                "red",
+                "angle_2"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ]
+            ]
+          },
+          "WVM_author": {
+            "TP": 12,
+            "FP": 1,
+            "FN": 20,
+            "SHD": 21,
+            "F1": 0.5333333333333333,
+            "F1_exact": "8/15",
+            "edges": [
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_1"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ]
+            ]
+          },
+          "row_estimator": {
+            "TP": 32,
+            "FP": 0,
+            "FN": 0,
+            "SHD": 0,
+            "F1": 1.0,
+            "F1_exact": "1",
+            "edges": [
+              [
+                "blue",
+                "current"
+              ],
+              [
+                "blue",
+                "im"
+              ],
+              [
+                "blue",
+                "ir_1"
+              ],
+              [
+                "blue",
+                "ir_2"
+              ],
+              [
+                "blue",
+                "ir_3"
+              ],
+              [
+                "blue",
+                "vis_1"
+              ],
+              [
+                "blue",
+                "vis_2"
+              ],
+              [
+                "blue",
+                "vis_3"
+              ],
+              [
+                "green",
+                "current"
+              ],
+              [
+                "green",
+                "im"
+              ],
+              [
+                "green",
+                "ir_1"
+              ],
+              [
+                "green",
+                "ir_2"
+              ],
+              [
+                "green",
+                "ir_3"
+              ],
+              [
+                "green",
+                "vis_1"
+              ],
+              [
+                "green",
+                "vis_2"
+              ],
+              [
+                "green",
+                "vis_3"
+              ],
+              [
+                "pol_1",
+                "angle_1"
+              ],
+              [
+                "pol_1",
+                "im"
+              ],
+              [
+                "pol_1",
+                "ir_3"
+              ],
+              [
+                "pol_1",
+                "vis_3"
+              ],
+              [
+                "pol_2",
+                "angle_2"
+              ],
+              [
+                "pol_2",
+                "im"
+              ],
+              [
+                "pol_2",
+                "ir_3"
+              ],
+              [
+                "pol_2",
+                "vis_3"
+              ],
+              [
+                "red",
+                "current"
+              ],
+              [
+                "red",
+                "im"
+              ],
+              [
+                "red",
+                "ir_1"
+              ],
+              [
+                "red",
+                "ir_2"
+              ],
+              [
+                "red",
+                "ir_3"
+              ],
+              [
+                "red",
+                "vis_1"
+              ],
+              [
+                "red",
+                "vis_2"
+              ],
+              [
+                "red",
+                "vis_3"
+              ]
+            ]
+          }
+        },
+        "strongest_baseline": "GIES",
+        "gain_pp": 1.538461538461533,
+        "best_baseline_completion_difference": [
+          "-1/65",
+          "1/65"
+        ]
+      },
+      "optical": {
+        "scores": {
+          "PC": {
+            "TP": 50,
+            "FP": 2,
+            "FN": 58,
+            "SHD": 60,
+            "F1": 0.625,
+            "F1_exact": "5/8",
+            "macro_F1": 0.5361081226465841,
+            "perfect_cases": 0
+          },
+          "GES": {
+            "TP": 78,
+            "FP": 2,
+            "FN": 30,
+            "SHD": 32,
+            "F1": 0.8297872340425532,
+            "F1_exact": "39/47",
+            "macro_F1": 0.7207821590174531,
+            "perfect_cases": 2
+          },
+          "GIES": {
+            "TP": 85,
+            "FP": 3,
+            "FN": 23,
+            "SHD": 26,
+            "F1": 0.8673469387755102,
+            "F1_exact": "85/98",
+            "macro_F1": 0.7550904977375565,
+            "perfect_cases": 7
+          },
+          "Gaussian_BIC_root_domain": {
+            "TP": 84,
+            "FP": 3,
+            "FN": 24,
+            "SHD": 27,
+            "F1": 0.8615384615384616,
+            "F1_exact": "56/65",
+            "macro_F1": 0.74849709114415,
+            "perfect_cases": 7
+          },
+          "DirectLiNGAM": {
+            "TP": 86,
+            "FP": 3,
+            "FN": 22,
+            "SHD": 25,
+            "F1": 0.8730964467005076,
+            "F1_exact": "172/197",
+            "macro_F1": 0.7493212669683259,
+            "perfect_cases": 8
+          },
+          "NOTEARS": {
+            "TP": 32,
+            "FP": 0,
+            "FN": 76,
+            "SHD": 76,
+            "F1": 0.45714285714285713,
+            "F1_exact": "16/35",
+            "macro_F1": 0.4678552217013755,
+            "perfect_cases": 1
+          },
+          "DAGMA": {
+            "TP": 51,
+            "FP": 0,
+            "FN": 57,
+            "SHD": 57,
+            "F1": 0.6415094339622641,
+            "F1_exact": "34/53",
+            "macro_F1": 0.6083262890955199,
+            "perfect_cases": 1
+          },
+          "GOLEM": {
+            "TP": 62,
+            "FP": 0,
+            "FN": 46,
+            "SHD": 46,
+            "F1": 0.7294117647058823,
+            "F1_exact": "62/85",
+            "macro_F1": 0.6843568196509373,
+            "perfect_cases": 1
+          },
+          "MuDo_CoM": {
+            "TP": 67,
+            "FP": 5,
+            "FN": 41,
+            "SHD": 46,
+            "F1": 0.7444444444444445,
+            "F1_exact": "67/90",
+            "macro_F1": 0.6752409355350532,
+            "perfect_cases": 1
+          },
+          "WVM_author": {
+            "TP": 3,
+            "FP": 0,
+            "FN": 105,
+            "SHD": 105,
+            "F1": 0.05405405405405406,
+            "F1_exact": "2/37",
+            "macro_F1": 0.12307692307692307,
+            "perfect_cases": 1
+          },
+          "row_estimator": {
+            "TP": 94,
+            "FP": 5,
+            "FN": 14,
+            "SHD": 19,
+            "F1": 0.9082125603864735,
+            "F1_exact": "188/207",
+            "macro_F1": 0.8367632367632368,
+            "perfect_cases": 9
+          }
+        },
+        "strongest_baseline": "DirectLiNGAM",
+        "gain_pp": 3.51161136859659,
+        "cases": [
+          {
+            "experiment": 78,
+            "scores": {
+              "PC": {
+                "TP": 3,
+                "FP": 0,
+                "FN": 6,
+                "SHD": 6,
+                "F1": 0.5,
+                "F1_exact": "1/2"
+              },
+              "GES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 2,
+                "FP": 0,
+                "FN": 7,
+                "SHD": 7,
+                "F1": 0.36363636363636365,
+                "F1_exact": "4/11"
+              },
+              "DAGMA": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "GOLEM": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "MuDo_CoM": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              3,
+              4,
+              5
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "added_true": 4,
+            "added_false": 0
+          },
+          {
+            "experiment": 75,
+            "scores": {
+              "PC": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GES": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "DAGMA": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GOLEM": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "MuDo_CoM": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              8
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "added_true": 1,
+            "added_false": 0
+          },
+          {
+            "experiment": 69,
+            "scores": {
+              "PC": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GES": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "DAGMA": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GOLEM": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "MuDo_CoM": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              1,
+              3,
+              4,
+              5,
+              7,
+              8
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "added_true": 3,
+            "added_false": 0
+          },
+          {
+            "experiment": 80,
+            "scores": {
+              "PC": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GES": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "DAGMA": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GOLEM": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "MuDo_CoM": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "WVM_author": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              1,
+              2,
+              4,
+              6,
+              7
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "added_true": 4,
+            "added_false": 0
+          },
+          {
+            "experiment": 72,
+            "scores": {
+              "PC": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GES": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "DAGMA": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "GOLEM": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "MuDo_CoM": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              2,
+              4,
+              7
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "added_true": 4,
+            "added_false": 0
+          },
+          {
+            "experiment": 79,
+            "scores": {
+              "PC": {
+                "TP": 2,
+                "FP": 0,
+                "FN": 7,
+                "SHD": 7,
+                "F1": 0.36363636363636365,
+                "F1_exact": "4/11"
+              },
+              "GES": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "GIES": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "DirectLiNGAM": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "NOTEARS": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "DAGMA": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GOLEM": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "MuDo_CoM": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "WVM_author": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "row_estimator": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              4,
+              5,
+              6,
+              8
+            ],
+            "inherited_pixels": [
+              6
+            ],
+            "certified_pixels": [
+              0,
+              4,
+              5,
+              6,
+              8
+            ],
+            "added_true": 4,
+            "added_false": 0
+          },
+          {
+            "experiment": 77,
+            "scores": {
+              "PC": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "GES": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 2,
+                "FP": 0,
+                "FN": 7,
+                "SHD": 7,
+                "F1": 0.36363636363636365,
+                "F1_exact": "4/11"
+              },
+              "DAGMA": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "GOLEM": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "MuDo_CoM": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              4,
+              5,
+              7
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "added_true": 4,
+            "added_false": 0
+          },
+          {
+            "experiment": 82,
+            "scores": {
+              "PC": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "SHD": 2,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GES": {
+                "TP": 0,
+                "FP": 2,
+                "FN": 0,
+                "SHD": 2,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GIES": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 0,
+                "SHD": 3,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 0,
+                "SHD": 3,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "DirectLiNGAM": {
+                "TP": 0,
+                "FP": 3,
+                "FN": 0,
+                "SHD": 3,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "NOTEARS": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DAGMA": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "GOLEM": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "MuDo_CoM": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 0,
+                "SHD": 5,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "row_estimator": {
+                "TP": 0,
+                "FP": 5,
+                "FN": 0,
+                "SHD": 5,
+                "F1": 0.0,
+                "F1_exact": "0"
+              }
+            },
+            "reference_pixels": [],
+            "predicted_pixels": [
+              0,
+              1,
+              3,
+              6,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              3,
+              6,
+              8
+            ],
+            "certified_pixels": [
+              0,
+              1
+            ],
+            "added_true": 0,
+            "added_false": 0
+          },
+          {
+            "experiment": 81,
+            "scores": {
+              "PC": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "GES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "GIES": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 2,
+                "FP": 0,
+                "FN": 7,
+                "SHD": 7,
+                "F1": 0.36363636363636365,
+                "F1_exact": "4/11"
+              },
+              "DAGMA": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "GOLEM": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "MuDo_CoM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              4,
+              5,
+              7,
+              8
+            ],
+            "added_true": 0,
+            "added_false": 0
+          },
+          {
+            "experiment": 74,
+            "scores": {
+              "PC": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GES": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GIES": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "DirectLiNGAM": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "NOTEARS": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "DAGMA": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GOLEM": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "MuDo_CoM": {
+                "TP": 2,
+                "FP": 0,
+                "FN": 7,
+                "SHD": 7,
+                "F1": 0.36363636363636365,
+                "F1_exact": "4/11"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 2,
+                "FP": 0,
+                "FN": 7,
+                "SHD": 7,
+                "F1": 0.36363636363636365,
+                "F1_exact": "4/11"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              1,
+              4
+            ],
+            "inherited_pixels": [
+              1,
+              4
+            ],
+            "certified_pixels": [],
+            "added_true": 0,
+            "added_false": 0
+          },
+          {
+            "experiment": 73,
+            "scores": {
+              "PC": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "GES": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "GIES": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "DirectLiNGAM": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              },
+              "NOTEARS": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "DAGMA": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "GOLEM": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "MuDo_CoM": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              8
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              7,
+              8
+            ],
+            "added_true": 2,
+            "added_false": 0
+          },
+          {
+            "experiment": 71,
+            "scores": {
+              "PC": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "GES": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "GIES": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "DirectLiNGAM": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "NOTEARS": {
+                "TP": 4,
+                "FP": 0,
+                "FN": 5,
+                "SHD": 5,
+                "F1": 0.6153846153846154,
+                "F1_exact": "8/13"
+              },
+              "DAGMA": {
+                "TP": 5,
+                "FP": 0,
+                "FN": 4,
+                "SHD": 4,
+                "F1": 0.7142857142857143,
+                "F1_exact": "5/7"
+              },
+              "GOLEM": {
+                "TP": 7,
+                "FP": 0,
+                "FN": 2,
+                "SHD": 2,
+                "F1": 0.875,
+                "F1_exact": "7/8"
+              },
+              "MuDo_CoM": {
+                "TP": 8,
+                "FP": 0,
+                "FN": 1,
+                "SHD": 1,
+                "F1": 0.9411764705882353,
+                "F1_exact": "16/17"
+              },
+              "WVM_author": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "row_estimator": {
+                "TP": 9,
+                "FP": 0,
+                "FN": 0,
+                "SHD": 0,
+                "F1": 1.0,
+                "F1_exact": "1"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7
+            ],
+            "certified_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              7,
+              8
+            ],
+            "added_true": 1,
+            "added_false": 0
+          },
+          {
+            "experiment": 70,
+            "scores": {
+              "PC": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GES": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "GIES": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "Gaussian_BIC_root_domain": {
+                "TP": 1,
+                "FP": 0,
+                "FN": 8,
+                "SHD": 8,
+                "F1": 0.2,
+                "F1_exact": "1/5"
+              },
+              "DirectLiNGAM": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "NOTEARS": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "DAGMA": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "GOLEM": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "MuDo_CoM": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              },
+              "WVM_author": {
+                "TP": 0,
+                "FP": 0,
+                "FN": 9,
+                "SHD": 9,
+                "F1": 0.0,
+                "F1_exact": "0"
+              },
+              "row_estimator": {
+                "TP": 6,
+                "FP": 0,
+                "FN": 3,
+                "SHD": 3,
+                "F1": 0.8,
+                "F1_exact": "4/5"
+              }
+            },
+            "reference_pixels": [
+              0,
+              1,
+              2,
+              3,
+              4,
+              5,
+              6,
+              7,
+              8
+            ],
+            "predicted_pixels": [
+              0,
+              1,
+              2,
+              5,
+              6,
+              8
+            ],
+            "inherited_pixels": [
+              0,
+              1,
+              2,
+              5,
+              6,
+              8
+            ],
+            "certified_pixels": [],
+            "added_true": 0,
+            "added_false": 0
+          }
+        ],
+        "added_true": 27,
+        "added_false": 0
+      }
+    },
+    "missing": []
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "status": "completed",
+  "method": "WVM_author",
+  "native_edges": [
+    [
+      2,
+      11
+    ]
+  ],
+  "native_undirected_edges": [],
+  "author": {
+    "exclusion_scores": [
+      4.7971353682448677e-05,
+      4.600849135640097e-05,
+      0.0001810597186176908,
+      5.2303666377817595e-05,
+      5.502971732292305e-05
+    ],
+    "predictor_columns": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "entrypoint": "WV_screening",
+    "B": 200,
+    "julia_version": "1.6.7",
+    "response_column": 12,
+    "status": "completed",
+    "group_counts": [
+      4096,
+      4096,
+      4096
+    ],
+    "source_modified": false,
+    "author_causes_by_level": [
+      [
+        false,
+        false,
+        true,
+        false,
+        false
+      ],
+      [
+        false,
+        false,
+        true,
+        false,
+        false
+      ]
+    ],
+    "input_role": "shared standardized original rows grouped by source experiment",
+    "raw_pvalues": [
+      0.7280566047788386,
+      0.7733428858292789,
+      9.563260017220188e-08,
+      0.6197755401800555,
+      0.549097469595895
+    ],
+    "seconds": 65.78488183021545,
+    "author_thresholds": [
+      0.00011978653443712683,
+      8.665696063885121e-05
+    ],
+    "rows": 12288,
+    "author_global_minimum": 2.558135544324261e-05,
+    "seed": 3469011
+  },
+  "truth_read": false,
+  "metadata": {
+    "source_modified": false,
+    "B": 200,
+    "levels": [
+      0.001,
+      0.05
+    ],
+    "native_graphs_by_level": [
+      [
+        [
+          2,
+          11
+        ]
+      ],
+      [
+        [
+          2,
+          11
+        ]
+      ]
+    ],
+    "author_causes_shape": "multiple_level_rows",
+    "output_adapter": "wvm_output_adapter335_v1.py",
+    "optimization_replayed": true,
+    "calibration": "author_bootstrap_moments_Gamma",
+    "source_commit": "ff98a88c81020d6dee74462625696ef17cedcbd5"
+  },
+  "qualified_edges": [
+    [
+      2,
+      11
+    ]
+  ],
+  "panel": "camera",
+  "experiment": null,
+  "started_epoch": 1794245275.207033,
+  "finished_epoch": 1794245354.0603993,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

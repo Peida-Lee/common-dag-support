@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 29,
+  "identifier": "validate_hatch_rpms__pressure_upwind",
+  "source": "validate_hatch_rpms.csv",
+  "target": "hatch",
+  "response": "pressure_upwind",
+  "n": 200,
+  "selected": {
+    "n": 200,
+    "counts": [
+      117,
+      83
+    ],
+    "KS_height_integer": 7424,
+    "KS_statistic_exact": "7424/9711",
+    "raw_P_exact": "104190481418784723170002831423/629376226796825555216609121432691376664049854322397107000",
+    "raw_P_decimal_upper": "1.65545625943096455416817583008612862776486078E-28",
+    "raw_component_P": [
+      1.6554562594309646e-28
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": true,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "104190481418784723170002831423/629376226796825555216609121432691376664049854322397107000",
+  "rejected": true
+}

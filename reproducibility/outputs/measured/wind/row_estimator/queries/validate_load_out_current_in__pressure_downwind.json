@@ -1,0 +1,33 @@
+{
+  "status": "completed",
+  "kind": "public",
+  "index": 87,
+  "identifier": "validate_load_out_current_in__pressure_downwind",
+  "source": "validate_load_out_current_in.csv",
+  "target": "load_out",
+  "response": "pressure_downwind",
+  "n": 100,
+  "selected": {
+    "n": 100,
+    "counts": [
+      51,
+      49
+    ],
+    "KS_height_integer": 2397,
+    "KS_statistic_exact": "47/49",
+    "raw_P_exact": "1/9991220493717983099109972",
+    "raw_P_decimal_upper": "1.00087872210282387902370418439130607900672500E-25",
+    "raw_component_P": [
+      1.0008787221028239e-25
+    ],
+    "raw_P_threshold_exact": "1/6160",
+    "family_queries": 308,
+    "family_alpha": "1/20",
+    "rejected": true,
+    "integer_calibration": true,
+    "ties": "continuous_rank_tail_conservative_under_ties",
+    "selected_component": "Ordered_center_KS"
+  },
+  "original_P": "1/9991220493717983099109972",
+  "rejected": true
+}

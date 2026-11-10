@@ -1,0 +1,677 @@
+{
+  "tasks": [
+    {
+      "identifier": "layered_p16_i0_s0",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 0,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p16_i0_s1_8",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 0,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p16_i0_s1_4",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 0,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p16_i0_s1_2",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 0,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p16_i1_s0",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 1,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p16_i1_s1_8",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 1,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p16_i1_s1_4",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 1,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p16_i1_s1_2",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 1,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p16_i3_s0",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 3,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p16_i3_s1_8",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 3,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p16_i3_s1_4",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 3,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p16_i3_s1_2",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 3,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p16_i4_s0",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 4,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p16_i4_s1_8",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 4,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p16_i4_s1_4",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 4,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p16_i4_s1_2",
+      "structure": "layered",
+      "nodes": 16,
+      "index": 4,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p32_i0_s0",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 0,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p32_i0_s1_8",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 0,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p32_i0_s1_4",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 0,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p32_i0_s1_2",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 0,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p32_i1_s0",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 1,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p32_i1_s1_8",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 1,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p32_i1_s1_4",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 1,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p32_i1_s1_2",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 1,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p32_i3_s0",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 3,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p32_i3_s1_8",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 3,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p32_i3_s1_4",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 3,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p32_i3_s1_2",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 3,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p32_i4_s0",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 4,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p32_i4_s1_8",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 4,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p32_i4_s1_4",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 4,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p32_i4_s1_2",
+      "structure": "layered",
+      "nodes": 32,
+      "index": 4,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p64_i0_s0",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 0,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p64_i0_s1_8",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 0,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p64_i0_s1_4",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 0,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p64_i0_s1_2",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 0,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p64_i1_s0",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 1,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p64_i1_s1_8",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 1,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p64_i1_s1_4",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 1,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p64_i1_s1_2",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 1,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p64_i3_s0",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 3,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p64_i3_s1_8",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 3,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p64_i3_s1_4",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 3,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p64_i3_s1_2",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 3,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "layered_p64_i4_s0",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 4,
+      "gap": "0"
+    },
+    {
+      "identifier": "layered_p64_i4_s1_8",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 4,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "layered_p64_i4_s1_4",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 4,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "layered_p64_i4_s1_2",
+      "structure": "layered",
+      "nodes": 64,
+      "index": 4,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p16_i0_s0",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 0,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p16_i0_s1_8",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 0,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p16_i0_s1_4",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 0,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p16_i0_s1_2",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 0,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p16_i1_s0",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 1,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p16_i1_s1_8",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 1,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p16_i1_s1_4",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 1,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p16_i1_s1_2",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 1,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p16_i3_s0",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 3,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p16_i3_s1_8",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 3,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p16_i3_s1_4",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 3,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p16_i3_s1_2",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 3,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p16_i4_s0",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 4,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p16_i4_s1_8",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 4,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p16_i4_s1_4",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 4,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p16_i4_s1_2",
+      "structure": "skip_chain",
+      "nodes": 16,
+      "index": 4,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p32_i0_s0",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 0,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p32_i0_s1_8",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 0,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p32_i0_s1_4",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 0,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p32_i0_s1_2",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 0,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p32_i1_s0",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 1,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p32_i1_s1_8",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 1,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p32_i1_s1_4",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 1,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p32_i1_s1_2",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 1,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p32_i3_s0",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 3,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p32_i3_s1_8",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 3,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p32_i3_s1_4",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 3,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p32_i3_s1_2",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 3,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p32_i4_s0",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 4,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p32_i4_s1_8",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 4,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p32_i4_s1_4",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 4,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p32_i4_s1_2",
+      "structure": "skip_chain",
+      "nodes": 32,
+      "index": 4,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p64_i0_s0",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 0,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p64_i0_s1_8",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 0,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p64_i0_s1_4",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 0,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p64_i0_s1_2",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 0,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p64_i1_s0",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 1,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p64_i1_s1_8",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 1,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p64_i1_s1_4",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 1,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p64_i1_s1_2",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 1,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p64_i3_s0",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 3,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p64_i3_s1_8",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 3,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p64_i3_s1_4",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 3,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p64_i3_s1_2",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 3,
+      "gap": "1/2"
+    },
+    {
+      "identifier": "skip_chain_p64_i4_s0",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 4,
+      "gap": "0"
+    },
+    {
+      "identifier": "skip_chain_p64_i4_s1_8",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 4,
+      "gap": "1/8"
+    },
+    {
+      "identifier": "skip_chain_p64_i4_s1_4",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 4,
+      "gap": "1/4"
+    },
+    {
+      "identifier": "skip_chain_p64_i4_s1_2",
+      "structure": "skip_chain",
+      "nodes": 64,
+      "index": 4,
+      "gap": "1/2"
+    }
+  ],
+  "conditions": 96
+}

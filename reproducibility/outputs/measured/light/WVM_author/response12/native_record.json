@@ -1,0 +1,206 @@
+{
+  "status": "completed",
+  "method": "WVM_author",
+  "native_edges": [
+    [
+      1,
+      12
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      5,
+      12
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      9,
+      12
+    ]
+  ],
+  "native_undirected_edges": [],
+  "author": {
+    "exclusion_scores": [
+      3.251971358587659e-05,
+      4.738717573551768e-05,
+      2.732105813098715e-05,
+      0.0004952618339590144,
+      3.123800756084119e-05,
+      0.00021985553599932788,
+      3.128250758974029e-05,
+      5.0446196501948696e-05,
+      2.7612216928759884e-05,
+      5.0713961630456986e-05
+    ],
+    "predictor_columns": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "entrypoint": "WV_screening",
+    "B": 200,
+    "julia_version": "1.6.7",
+    "response_column": 13,
+    "status": "completed",
+    "group_counts": [
+      10000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000,
+      1000
+    ],
+    "source_modified": false,
+    "author_causes_by_level": [
+      [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+      ],
+      [
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true,
+        false,
+        true
+      ]
+    ],
+    "input_role": "shared standardized original rows grouped by source experiment",
+    "raw_pvalues": [
+      0.2852415027363093,
+      0.0003114548306866194,
+      0.736970065632263,
+      0.0,
+      0.3882894666010802,
+      0.0,
+      0.3844732116695597,
+      4.1874047642331824e-05,
+      0.7132431312662051,
+      3.48552231107524e-05
+    ],
+    "seconds": 1326.397423028946,
+    "author_thresholds": [
+      4.645235771365544e-05,
+      3.77063464234061e-05
+    ],
+    "rows": 20000,
+    "author_global_minimum": 2.7378663161882133e-05,
+    "seed": 3489012
+  },
+  "truth_read": false,
+  "metadata": {
+    "source_modified": false,
+    "B": 200,
+    "levels": [
+      0.0005555555555555556,
+      0.05
+    ],
+    "native_graphs_by_level": [
+      [
+        [
+          1,
+          12
+        ],
+        [
+          3,
+          12
+        ],
+        [
+          5,
+          12
+        ],
+        [
+          7,
+          12
+        ],
+        [
+          9,
+          12
+        ]
+      ],
+      [
+        [
+          1,
+          12
+        ],
+        [
+          3,
+          12
+        ],
+        [
+          5,
+          12
+        ],
+        [
+          7,
+          12
+        ],
+        [
+          9,
+          12
+        ]
+      ]
+    ],
+    "author_causes_shape": "multiple_level_rows",
+    "output_adapter": "wvm_output_adapter335_v1.py",
+    "optimization_replayed": true,
+    "calibration": "author_bootstrap_moments_Gamma",
+    "source_commit": "ff98a88c81020d6dee74462625696ef17cedcbd5"
+  },
+  "qualified_edges": [
+    [
+      1,
+      12
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      5,
+      12
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      9,
+      12
+    ]
+  ],
+  "panel": "light",
+  "experiment": null,
+  "started_epoch": 1794245275.2094626,
+  "finished_epoch": 1794246614.5980206,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

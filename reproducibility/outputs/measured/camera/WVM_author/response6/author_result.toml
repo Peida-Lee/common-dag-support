@@ -1,0 +1,17 @@
+exclusion_scores = [1.1360595290130478e-6, 9.37308648875022e-7, 1.566950428979329e-6, 0.06872946810480275, 2.955253824350944e-5]
+predictor_columns = [1, 2, 3, 4, 5]
+entrypoint = "WV_screening"
+B = 200
+julia_version = "1.6.7"
+response_column = 7
+status = "completed"
+group_counts = [4096, 4096, 4096]
+source_modified = false
+author_causes_by_level = [[false, false, false, true, true], [false, false, false, true, true]]
+input_role = "shared standardized original rows grouped by source experiment"
+raw_pvalues = [0.7491935257183775, 0.8691753698909123, 0.4420580642122851, 0.0, 0.0]
+seconds = 66.0977430343628
+author_thresholds = [3.969252226317238e-6, 2.614219406641602e-6]
+rows = 12288
+author_global_minimum = 8.359541024862496e-7
+seed = 3469006

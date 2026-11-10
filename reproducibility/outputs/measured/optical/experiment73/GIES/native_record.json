@@ -1,0 +1,141 @@
+{
+  "status": "completed",
+  "method": "GIES",
+  "native_edges": [
+    [
+      0,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "native_undirected_edges": [],
+  "qualified_edges": [
+    [
+      0,
+      9
+    ],
+    [
+      1,
+      9
+    ],
+    [
+      2,
+      9
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      4,
+      9
+    ],
+    [
+      5,
+      9
+    ],
+    [
+      6,
+      9
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      8,
+      9
+    ]
+  ],
+  "truth_read": false,
+  "metadata": {
+    "score": 469.8263161443666,
+    "extension_score": 469.8263161443666,
+    "targets": [
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    ],
+    "common_scale": [
+      0.17418364271925854,
+      0.21464783758526534,
+      0.2275204266112171,
+      0.23160046608188478,
+      0.19885159495526716,
+      0.23601832681630047,
+      0.2586410744670958,
+      0.05652282518075449,
+      0.13638571412222802,
+      6.574941317609403
+    ],
+    "parent_domain": "hardware_roots",
+    "root_score": "zero_when_all_groups_intervene",
+    "score_extension": "inherited_conditional_likelihood_given_controlled_roots"
+  },
+  "detected_pixels": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "panel": "optical",
+  "experiment": 73,
+  "started_epoch": 1794245289.7549474,
+  "finished_epoch": 1794245289.8914082,
+  "freeze_id": "8547293193d4a2ce341bcec41bff44000c93abd7aee979383a6defb014a8ebde"
+}

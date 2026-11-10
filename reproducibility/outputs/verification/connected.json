@@ -1,0 +1,9 @@
+{
+  "status": "passed",
+  "symbolic_full_inverses": 768,
+  "connected_conditions": 96,
+  "omitted_target_witnesses": 288,
+  "complete_support_selections": 192,
+  "stable_feedback_models": 96,
+  "parent_domain_decisions": 288
+}
