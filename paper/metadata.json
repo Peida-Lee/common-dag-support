@@ -3,7 +3,7 @@
   "author": "Peida Li",
   "affiliation": "School of Basic Medical Sciences, Peking University",
   "email": "2410301207@stu.pku.edu.cn",
-  "primary_category": "cs.AI",
+  "primary_category": "stat.ME",
   "country": "People's Republic of China",
   "groups": [
     "cs",
@@ -15,5 +15,9 @@
   "changes": "author identity, preprint mode and date only",
   "scientific_sections_byte_identical": true,
   "publication_gate": "passed_explicit_Astra_Weak_Accept",
-  "publication_gate_record": "Astra_publication_gate383_v1.json"
+  "publication_gate_record": "Astra_publication_gate383_v1.json",
+  "cross_lists": [
+    "cs.AI"
+  ],
+  "classification_reason": "arXiv automated recommendation accepted during final submission"
 }
