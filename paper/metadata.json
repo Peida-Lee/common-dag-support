@@ -4,20 +4,13 @@
   "affiliation": "School of Basic Medical Sciences, Peking University",
   "email": "2410301207@stu.pku.edu.cn",
   "primary_category": "stat.ME",
-  "country": "People's Republic of China",
-  "groups": [
-    "cs",
-    "stat"
-  ],
-  "career_status": "Other",
-  "prepared_beijing": "2026-11-11T02:34:17.605563+08:00",
-  "source_scientific_version": 382,
-  "changes": "author identity, preprint mode and date only",
-  "scientific_sections_byte_identical": true,
-  "publication_gate": "passed_explicit_Astra_Weak_Accept",
-  "publication_gate_record": "Astra_publication_gate383_v1.json",
   "cross_lists": [
     "cs.AI"
   ],
-  "classification_reason": "arXiv automated recommendation accepted during final submission"
+  "source_scientific_version": 382,
+  "arxiv_id": "2611.15052",
+  "arxiv_url": "https://arxiv.org/abs/2611.15052",
+  "paper_license": "https://arxiv.org/licenses/nonexclusive-distrib/1.0/",
+  "pages": 30,
+  "main_pages": 8
 }

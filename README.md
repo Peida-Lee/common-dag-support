@@ -4,6 +4,8 @@ Peida Li, School of Basic Medical Sciences, Peking University.
 
 This repository contains the signed preprint and the final reproducibility package.
 
+The paper is available at [arXiv:2611.15052](https://arxiv.org/abs/2611.15052).
+
 ## Contents
 
 - `paper/common_dag_support.pdf` is the signed 30-page preprint.
